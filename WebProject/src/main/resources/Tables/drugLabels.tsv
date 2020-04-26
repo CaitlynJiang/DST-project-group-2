@@ -1,0 +1,740 @@
+PharmGKB ID	Name	Source	Biomarker Flag	Testing Level	Has Prescribing Info	Has Dosing Info	Has Alternate Drug	Cancer Genome
+PA166184237	Annotation of Swissmedic Label for Vitamin B-complex with vitamin C and G6PD	Swissmedic		Actionable PGx				
+PA166183786	Annotation of Swissmedic Label for amlodipine / atorvastatin / perindopril arginine and G6PD,SLCO1B1	Swissmedic		Actionable PGx				
+PA166184423	Annotation of Swissmedic Label for antithrombotic agents and G6PD	Swissmedic		Actionable PGx				
+PA166184405	Annotation of Swissmedic Label for brexpiprazole and CYP2D6	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184380	Annotation of Swissmedic Label for brivaracetam and CYP2C19,CYP2C9	Swissmedic		Informative PGx				
+PA166184114	Annotation of Swissmedic Label for capecitabine and DPYD	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info	Alternate Drug	
+PA166184116	Annotation of Swissmedic Label for carbamazepine and HLA-B	Swissmedic		Testing required	Prescribing Info		Alternate Drug	
+PA166184117	Annotation of Swissmedic Label for carbasalate calcium and G6PD	Swissmedic		Actionable PGx				
+PA166184122	Annotation of Swissmedic Label for ciprofloxacin and G6PD	Swissmedic		Actionable PGx				
+PA166184124	Annotation of Swissmedic Label for clomipramine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184126	Annotation of Swissmedic Label for codeine and CYP2D6	Swissmedic		Actionable PGx	Prescribing Info		Alternate Drug	
+PA166184133	Annotation of Swissmedic Label for dexlansoprazole and CYP2C19	Swissmedic		Actionable PGx				
+PA166184134	Annotation of Swissmedic Label for dextromethorphan and CYP2D6	Swissmedic		Actionable PGx				
+PA166184506	Annotation of Swissmedic Label for dolutegravir / abacavir / lamivudine and HLA-B	Swissmedic		Testing required	Prescribing Info			
+PA166184442	Annotation of Swissmedic Label for duloxetine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184430	Annotation of Swissmedic Label for fenofibrate,simvastatin and SLCO1B1	Swissmedic		Actionable PGx				
+PA166184449	Annotation of Swissmedic Label for flucytosine and DPYD	Swissmedic		Testing recommended				
+PA166184450	Annotation of Swissmedic Label for fluorouracil and DPYD	Swissmedic		Testing required				
+PA166184452	Annotation of Swissmedic Label for fluoxetine and CYP2D6	Swissmedic		Informative PGx				
+PA166184461	Annotation of Swissmedic Label for hydroxychloroquine and G6PD	Swissmedic		Actionable PGx				
+PA166184388	Annotation of Swissmedic Label for losartan and CYP2C9,CYP3A4	Swissmedic		Actionable PGx				
+PA166183781	Annotation of Swissmedic Label for mercaptopurine and NUDT15,TPMT	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166183900	Annotation of Swissmedic Label for moclobemide and CYP2C19	Swissmedic		Actionable PGx				
+PA166183910	Annotation of Swissmedic Label for nebivolol and CYP2D6	Swissmedic		Informative PGx				
+PA166184157	Annotation of Swissmedic Label for ofloxacin and G6PD	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184158	Annotation of Swissmedic Label for ombitasvir / paritaprevir / ritonavir and IFNL3,IFNL4	Swissmedic		Actionable PGx				
+PA166184173	Annotation of Swissmedic Label for oxcarbazepine and HLA-B	Swissmedic		Testing required	Prescribing Info		Alternate Drug	
+PA166184221	Annotation of Swissmedic Label for palonosetron and CYP2D6	Swissmedic		Informative PGx				
+PA166184268	Annotation of Swissmedic Label for pazopanib and HLA-B	Swissmedic		Actionable PGx				
+PA166184394	Annotation of Swissmedic Label for prasugrel and CYP2B6,CYP2C19,CYP2C9,CYP3A5	Swissmedic		Informative PGx				
+PA166184395	Annotation of Swissmedic Label for propafenone and CYP2D6	Swissmedic		Actionable PGx				
+PA166184120	Annotation of Swissmedic Label for quinine and G6PD	Swissmedic		Actionable PGx	Prescribing Info		Alternate Drug	
+PA166184403	Annotation of Swissmedic Label for rasburicase and G6PD	Swissmedic		Actionable PGx	Prescribing Info		Alternate Drug	
+PA166184428	Annotation of Swissmedic Label for sertindole and CYP2D6	Swissmedic		Actionable PGx				
+PA166184390	Annotation of Swissmedic Label for sulfamethoxazole / trimethoprim and G6PD	Swissmedic		Actionable PGx				
+PA166184424	Annotation of Swissmedic Label for thioguanine and TPMT	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184490	Annotation of Swissmedic Label for zuclopenthixol and CYP2D6	Swissmedic		Informative PGx				
+PA166184637	Annotation of FDA Label for oxymetazoline and tetracaine and BCHE,CYB5R3,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166129525	Annotation of HCSC Label for carglumic acid and NAGS	HCSC		Testing required				
+PA166129526	Annotation of HCSC Label for ceritinib and ALK	HCSC		Testing required				
+PA166129527	Annotation of HCSC Label for ponatinib and ABI1,BCR	HCSC		Testing required				
+PA166153432	Annotation of FDA Label for flibanserin and CYP2C19,CYP2C9,CYP2D6	FDA	On	Actionable PGx				
+PA166153492	Annotation of FDA Label for brivaracetam and CYP2C19	FDA	On	Actionable PGx	Prescribing Info			
+PA166160054	Annotation of FDA Label for brexpiprazole and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166161219	Annotation of FDA Label for aripiprazole lauroxil and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info	Alternate Drug	
+PA166178724	Annotation of FDA Label for neratinib and ESR1,ESR2,PGR	FDA	On	Informative PGx				
+PA166163422	Annotation of FDA Label for dronabinol and CYP2C9	FDA	On	Actionable PGx				
+PA166163421	Annotation of FDA Label for daclatasvir and IFNL3	FDA	On	Informative PGx				
+PA166160039	Annotation of FDA Label for evolocumab and LDLR	FDA	Off (Formerly On)	Informative PGx				
+PA166160040	Annotation of FDA Label for Parathyroid Hormones And Analogues and CASR	FDA	On	Informative PGx				
+PA166114482	Annotation of EMA Label for vemurafenib and BRAF	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166105195	Annotation of FDA Label for metoclopramide and CYB5R1,CYB5R2,CYB5R3,CYB5R4,G6PD	FDA	On	Actionable PGx				
+PA166115362	Annotation of FDA Label for sodium nitrite and CYB5R3,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166159962	Annotation of FDA Label for alirocumab and LDLR	FDA	Off (Formerly On)	Informative PGx				
+PA166105178	Annotation of FDA Label for lidocaine / prilocaine and CYB5R3,G6PD	FDA	On	Actionable PGx				
+PA166105211	Annotation of FDA Label for ondansetron and CYP2D6	FDA	On	Informative PGx				
+PA166182758	Annotation of FDA Label for goserelin and ESR1,ESR2,PGR	FDA	On	Informative PGx				
+PA166182786	Annotation of FDA Label for tolazamide and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166182925	Annotation of EMA Label for amifampridine phosphate and NAT2	EMA		Actionable PGx				
+PA166182948	Annotation of EMA Label for encorafenib and BRAF	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182952	Annotation of EMA Label for irinotecan and UGT1A1	EMA		Actionable PGx	Prescribing Info			
+PA166183181	Annotation of EMA Label for lesinurad and CYP2C9	EMA		Actionable PGx	Prescribing Info			
+PA166184172	Annotation of Swissmedic Label for Opium derivatives and expectorants and CYP2D6	Swissmedic		Actionable PGx				
+PA166184224	Annotation of Swissmedic Label for acetaminophen,acetaminophen / tramadol and G6PD	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184111	Annotation of Swissmedic Label for atomoxetine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184112	Annotation of Swissmedic Label for azathioprine and NUDT15,TPMT	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184113	Annotation of Swissmedic Label for bisoprolol fumarate / perindopril arginine and G6PD	Swissmedic		Actionable PGx				
+PA166184121	Annotation of Swissmedic Label for chloroquine and G6PD	Swissmedic		Actionable PGx	Prescribing Info		Alternate Drug	
+PA166184125	Annotation of Swissmedic Label for clopidogrel and CYP2C19	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184129	Annotation of Swissmedic Label for daclatasvir and IFNL3	Swissmedic		Informative PGx				
+PA166184132	Annotation of Swissmedic Label for dasabuvir and IFNL3	Swissmedic		Actionable PGx				
+PA166184443	Annotation of Swissmedic Label for efavirenz and CYP2B6	Swissmedic		Actionable PGx				
+PA166184446	Annotation of Swissmedic Label for escitalopram and CYP2D6	Swissmedic		Informative PGx				
+PA166184427	Annotation of Swissmedic Label for ezetimibe / rosuvastatin and ABCG2,SLCO1B1	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184429	Annotation of Swissmedic Label for ezetimibe / simvastatin and SLCO1B1	Swissmedic		Testing recommended	Prescribing Info	Dosing Info		
+PA166184447	Annotation of Swissmedic Label for fesoterodine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184451	Annotation of Swissmedic Label for fluorouracil and TYMS	Swissmedic		Actionable PGx				
+PA166184455	Annotation of Swissmedic Label for gefitinib and CYP2D6	Swissmedic		Actionable PGx				
+PA166184456	Annotation of Swissmedic Label for glibenclamide and G6PD	Swissmedic		Actionable PGx				
+PA166184457	Annotation of Swissmedic Label for gliclazide and G6PD	Swissmedic		Actionable PGx				
+PA166184374	Annotation of Swissmedic Label for ibrutinib and CYP2D6	Swissmedic		Informative PGx				
+PA166184502	Annotation of Swissmedic Label for lamivudine / abacavir and HLA-B	Swissmedic		Testing required	Prescribing Info			
+PA166184383	Annotation of Swissmedic Label for lapatinib and HLA-DQA1,HLA-DRB1	Swissmedic		Actionable PGx				
+PA166169912	Annotation of FDA Label for enflurane and CACNA1S,RYR1	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166184386	Annotation of Swissmedic Label for letermovir and SLCO1B1,UGT1A1	Swissmedic		Informative PGx				
+PA166183789	Annotation of Swissmedic Label for metabutethamine and G6PD	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184155	Annotation of Swissmedic Label for nitrofurantoin and G6PD	Swissmedic		Actionable PGx	Prescribing Info		Alternate Drug	
+PA166184160	Annotation of Swissmedic Label for ondansetron and CYP2D6	Swissmedic		Informative PGx				
+PA166184177	Annotation of Swissmedic Label for oxycodone and CYP2D6	Swissmedic		Actionable PGx				
+PA166184220	Annotation of Swissmedic Label for paliperidone and CYP2D6	Swissmedic		Informative PGx				
+PA166184286	Annotation of Swissmedic Label for perindopril and G6PD	Swissmedic		Actionable PGx				
+PA166184393	Annotation of Swissmedic Label for pitavastatin and SLCO1B1	Swissmedic		Actionable PGx				
+PA166184396	Annotation of Swissmedic Label for rabeprazole and CYP2C19	Swissmedic		Actionable PGx				
+PA166184421	Annotation of Swissmedic Label for risperidone and CYP2D6	Swissmedic		Informative PGx				
+PA166184500	Annotation of Swissmedic Label for simvastatin and SLCO1B1	Swissmedic		Testing recommended	Prescribing Info			
+PA166184434	Annotation of Swissmedic Label for sofosbuvir and IFNL3,IFNL4	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184389	Annotation of Swissmedic Label for sulfadiazine and G6PD	Swissmedic		Actionable PGx				
+PA166184391	Annotation of Swissmedic Label for sulfasalazine and G6PD	Swissmedic		Actionable PGx				
+PA166184392	Annotation of Swissmedic Label for tamoxifen and CYP2D6	Swissmedic		Actionable PGx				
+PA166184422	Annotation of Swissmedic Label for tetrabenazine and CYP2D6	Swissmedic		Testing required	Prescribing Info			
+PA166184425	Annotation of Swissmedic Label for tolperisone and CYP2D6	Swissmedic		Actionable PGx				
+PA166184236	Annotation of Swissmedic Label for umeclidinium / vilanterol and CYP2D6	Swissmedic		Informative PGx				
+PA166184239	Annotation of Swissmedic Label for vortioxetine and CYP2D6	Swissmedic		Actionable PGx				
+PA166122971	Annotation of FDA Label for darifenacin and CYP2D6	FDA	On	Actionable PGx				
+PA166105028	Annotation of FDA Label for nebivolol and CYP2D6	FDA	On	Informative PGx	Prescribing Info			
+PA166122592	Annotation of FDA Label for simeprevir and IFNL3	FDA	On	Informative PGx				
+PA166115367	Annotation of FDA Label for velaglucerase alfa and GBA	FDA	Off (Formerly On)	Testing required	Prescribing Info		Alternate Drug	
+PA166119823	Annotation of EMA Label for afatinib and EGFR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166122967	Annotation of EMA Label for fesoterodine and CYP2D6	EMA	Off (Never On)	Actionable PGx				
+PA166122972	Annotation of FDA Label for fesoterodine and CYP2D6	FDA	On	Actionable PGx				
+PA166105148	Annotation of FDA Label for glipizide and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166114931	Annotation of FDA Label for ponatinib and ABL1,BCR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166114907	Annotation of FDA Label for bosutinib and ABL1,BCR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166105222	Annotation of FDA Label for piroxicam and CYP2C9	FDA	On	Actionable PGx	Prescribing Info			
+PA166105213	Annotation of FDA Label for oxcarbazepine and HLA-B	FDA	On	Testing recommended	Prescribing Info		Alternate Drug	
+PA166105117	Annotation of FDA Label for efavirenz and CYP2B6	FDA	On	Actionable PGx				
+PA166105147	Annotation of FDA Label for glimepiride and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166120370	Annotation of EMA Label for glimepiride,pioglitazone and G6PD	EMA	Off (Never On)	Actionable PGx	Prescribing Info			
+PA166122589	Annotation of FDA Label for afutuzumab and MS4A1	FDA	Off (Formerly On)	Informative PGx				Cancer Genome
+PA166114921	Annotation of FDA Label for ibritumomab and MS4A1	FDA	Off (Formerly On)	Informative PGx				Cancer Genome
+PA166114923	Annotation of FDA Label for lomitapide and LDLR	FDA	Off (Formerly On)	Informative PGx				
+PA166105012	Annotation of FDA Label for escitalopram and CYP2C19,CYP2D6	FDA	On	Actionable PGx				
+PA166105113	Annotation of FDA Label for donepezil and CYP2D6	FDA	On	Actionable PGx				
+PA166105010	Annotation of FDA Label for duloxetine and CYP2D6	FDA	On	Actionable PGx				
+PA166122947	Annotation of EMA Label for ranolazine and CYP2D6	EMA	Off (Never On)	Actionable PGx				
+PA166121326	Annotation of EMA Label for pazopanib and HLA-B	EMA	Off (Never On)	Actionable PGx				
+PA166122966	Annotation of EMA Label for darifenacin and CYP2D6	EMA	Off (Never On)	Actionable PGx				
+PA166122067	Annotation of EMA Label for ponatinib and ABL1,BCR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166105232	Annotation of FDA Label for quinine and CYP2D6,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166105319	Annotation of EMA Label for panitumumab and KRAS,NRAS	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166122548	Annotation of EMA Label for velaglucerase alfa and GBA	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	
+PA166121252	Annotation of EMA Label for ofatumumab and MS4A1	EMA	Off (Never On)	Informative PGx				
+PA166122487	Annotation of EMA Label for propranolol and CYP2D6	EMA	Off (Never On)	Informative PGx				
+PA166122547	Annotation of EMA Label for trastuzumab emtansine and ERBB2	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166117941	Annotation of EMA Label for bosutinib and ABL1,BCR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104828	Annotation of FDA Label for hydralazine / isosorbide dinitrate and NAT2	FDA	On	Informative PGx				
+PA166104834	Annotation of FDA Label for lenalidomide	FDA	On	Testing required				
+PA166104838	Annotation of FDA Label for thioguanine and NUDT15,TPMT	FDA	On	Testing recommended	Prescribing Info	Dosing Info		
+PA166104844	Annotation of EMA Label for erlotinib and EGFR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104848	Annotation of FDA Label for rabeprazole and CYP2C19	FDA	On	Actionable PGx				
+PA166104841	Annotation of EMA Label for clopidogrel and CYP2C19	EMA	Off (Never On)	Actionable PGx				
+PA166104856	Annotation of FDA Label for amitriptyline and CYP2D6	FDA	On	Actionable PGx				
+PA166104852	Annotation of FDA Label for citalopram and CYP2C19,CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104867	Annotation of FDA Label for telaprevir and IFNL3	FDA	On	Actionable PGx				
+PA166104858	Annotation of FDA Label for vemurafenib and BRAF	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104863	Annotation of FDA Label for dexlansoprazole and CYP2C19	FDA	On	Actionable PGx				
+PA166104875	Annotation of FDA Label for clomipramine and CYP2D6	FDA	On	Actionable PGx				
+PA166104878	Annotation of FDA Label for methylene blue and G6PD	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104886	Annotation of FDA Label for dextromethorphan / quinidine and CYP2D6	FDA	On	Testing recommended				
+PA166127641	Annotation of HCSC Label for bosutinib and ABL1,BCR	HCSC		Testing required				
+PA166127706	Annotation of HCSC Label for rabeprazole and CYP2C19	HCSC		Actionable PGx				
+PA166127634	Annotation of HCSC Label for atorvastatin and LDLR	HCSC		Informative PGx				
+PA166127702	Annotation of HCSC Label for primaquine and CYB5R1,CYB5R2,CYB5R3,CYB5R4,G6PD	HCSC		Actionable PGx				
+PA166115363	Annotation of FDA Label for succimer and G6PD	FDA	On	Informative PGx				
+PA166115365	Annotation of FDA Label for trametinib and BRAF	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104783	Annotation of FDA Label for rasburicase and CYB5R1,CYB5R2,CYB5R3,CYB5R4	FDA	On	Informative PGx				
+PA166104776	Annotation of FDA Label for warfarin and CYP2C9,PROC,PROS1,VKORC1	FDA	On	Actionable PGx	Prescribing Info			
+PA166104799	Annotation of FDA Label for tramadol and CYP2D6	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104788	Annotation of FDA Label for fluoxetine / olanzapine and CYP2D6	FDA	Off (Never On)	Actionable PGx				
+PA166104793	Annotation of FDA Label for risperidone and CYP2D6	FDA	On	Informative PGx	Prescribing Info			
+PA166104807	Annotation of FDA Label for fluorouracil and DPYD	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104816	Annotation of FDA Label for esomeprazole and CYP2C19	FDA	On	Actionable PGx				
+PA166104823	Annotation of EMA Label for methylene blue and BLVRB,CYB5R3,G6PD	EMA	Off (Never On)	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104819	Annotation of FDA Label for tamoxifen and ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104831	Annotation of FDA Label for irinotecan and UGT1A1	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104837	Annotation of FDA Label for propafenone and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166104847	Annotation of FDA Label for venlafaxine and CYP2D6	FDA	On	Actionable PGx				
+PA166104857	Annotation of FDA Label for trimipramine and CYP2D6	FDA	On	Actionable PGx				
+PA166104866	Annotation of FDA Label for pravastatin and APOE	FDA	Off (Formerly On)	Informative PGx				
+PA166104860	Annotation of FDA Label for phenytoin and CYP2C19,CYP2C9,HLA-B	FDA	On	Actionable PGx	Prescribing Info			
+PA166104877	Annotation of FDA Label for mycophenolic acid and HPRT1	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104881	Annotation of FDA Label for glibenclamide and G6PD	FDA	Off (Formerly On)	Actionable PGx	Prescribing Info			
+PA166104902	Annotation of FDA Label for sulfadiazine and G6PD	FDA	On	Actionable PGx				
+PA166104907	Annotation of EMA Label for eltrombopag and F5,SERPINC1	EMA	Off (Never On)	Actionable PGx	Prescribing Info			
+PA166104909	Annotation of EMA Label for crizotinib and ALK,ROS1	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104920	Annotation of FDA Label for trastuzumab and ERBB2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166114481	Annotation of EMA Label for trastuzumab and ERBB2	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166114944	Annotation of FDA Label for regorafenib and EGFR,KRAS,VEGFA	FDA	On	Informative PGx				Cancer Genome
+PA166127664	Annotation of FDA Label for ibrutinib	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166127633	Annotation of HCSC Label for atomoxetine and CYP2D6	HCSC		Actionable PGx				
+PA166127707	Annotation of HCSC Label for rasburicase and G6PD	HCSC		Testing recommended				
+PA166127645	Annotation of HCSC Label for carbamazepine and HLA-A,HLA-B	HCSC		Testing recommended				
+PA166159707	Annotation of HCSC Label for atazanavir and CYP2C19	HCSC		Informative PGx				
+PA166170932	Annotation of FDA Label for pembrolizumab and BRAF	FDA	On	Informative PGx				Cancer Genome
+PA166182931	Annotation of EMA Label for brigatinib and ALK	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166120287	Annotation of EMA Label for ethinyl estradiol / norelgestromin and F5,PROC,PROS1,SERPINC1	EMA	Off (Never On)	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166121327	Annotation of EMA Label for pegloticase and G6PD	EMA	Off (Never On)	Testing required				
+PA166105315	Annotation of EMA Label for nelfinavir and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166122607	Annotation of FDA Label for vortioxetine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166114905	Annotation of FDA Label for belimumab and TNFSF13B	FDA	Off (Formerly On)	Informative PGx				
+PA166114378	Annotation of EMA Label for telaprevir and IFNL3	EMA	Off (Never On)	Actionable PGx				
+PA166114913	Annotation of FDA Label for dabrafenib and G6PD	FDA	On	Actionable PGx				
+PA166105334	Annotation of EMA Label for nilotinib and ABL1,BCR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166115435	Annotation of EMA Label for timolol and CYP2D6	EMA	Off (Never On)	Informative PGx				
+PA166122066	Annotation of EMA Label for pertuzumab and ERBB2	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166122969	Annotation of EMA Label for vardenafil	EMA	Off (Never On)	Informative PGx				
+PA166122907	Annotation of EMA Label for vandetanib and RET	EMA	Off (Never On)	Testing recommended				
+PA166105059	Annotation of FDA Label for ofatumumab and MS4A1	FDA	Off (Formerly On)	Informative PGx				Cancer Genome
+PA166119826	Annotation of EMA Label for dabrafenib and BRAF	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166105070	Annotation of FDA Label for anastrozole and ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info			Cancer Genome
+PA166121250	Annotation of EMA Label for lomitapide and APOB,LDLR,PCSK9	EMA	Off (Never On)	Testing required				
+PA166114941	Annotation of FDA Label for pravastatin and LDLR	FDA	Off (Formerly On)	Informative PGx				
+PA166122826	Annotation of EMA Label for voriconazole and CYP2C19,CYP2C9,CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166114317	Annotation of FDA Label for sodium phenylbutyrate and ASS1,CPS1,OTC	FDA	On	Testing required				
+PA166105321	Annotation of EMA Label for prasugrel and CYP2B6,CYP2C19,CYP2C9,CYP3A5	EMA	Off (Never On)	Informative PGx				
+PA166120286	Annotation of EMA Label for esomeprazole and CYP2C19	EMA	Off (Never On)	Informative PGx	Prescribing Info			
+PA166127632	Annotation of HCSC Label for arsenic trioxide and PML,RARA	HCSC		Testing required				
+PA166127635	Annotation of HCSC Label for azathioprine and TPMT	HCSC		Actionable PGx				
+PA166127640	Annotation of HCSC Label for boceprevir and IFNL3	HCSC		Informative PGx				
+PA166127644	Annotation of HCSC Label for capecitabine and DPYD	HCSC		Actionable PGx				
+PA166127646	Annotation of HCSC Label for carvedilol and CYP2D6	HCSC		Actionable PGx				
+PA166127647	Annotation of HCSC Label for celecoxib and CYP2C9	HCSC		Actionable PGx				
+PA166127648	Annotation of HCSC Label for cetuximab and EGFR,KRAS	HCSC		Testing required				
+PA166127649	Annotation of HCSC Label for chlorpropamide and G6PD	HCSC		Actionable PGx				
+PA166127650	Annotation of HCSC Label for citalopram and CYP2C19	HCSC		Actionable PGx				
+PA166127699	Annotation of HCSC Label for panitumumab and EGFR,KRAS	HCSC		Testing required				
+PA166127700	Annotation of HCSC Label for pertuzumab and ERBB2	HCSC		Testing required				
+PA166127701	Annotation of HCSC Label for phenytoin and HLA-B	HCSC		Testing recommended				
+PA166127704	Annotation of HCSC Label for propafenone and CYP2D6	HCSC		Actionable PGx				
+PA166127705	Annotation of HCSC Label for quinine and G6PD	HCSC		Actionable PGx				
+PA166105023	Annotation of FDA Label for rosuvastatin and SLCO1B1	FDA	On	Actionable PGx				
+PA166122546	Annotation of EMA Label for rituximab and MS4A1	EMA	Off (Never On)	Testing required				
+PA166127708	Annotation of HCSC Label for risperidone and CYP2D6	HCSC		Informative PGx				
+PA166127709	Annotation of HCSC Label for rosuvastatin and LDLR	HCSC		Actionable PGx				
+PA166104775	Annotation of FDA Label for atorvastatin and LDLR	FDA	Off (Formerly On)	Informative PGx				
+PA166104777	Annotation of FDA Label for clopidogrel and CYP2C19	FDA	On	Actionable PGx	Prescribing Info			
+PA166104778	Annotation of FDA Label for brentuximab vedotin and ALK	FDA	On	Informative PGx				Cancer Genome
+PA166104779	Annotation of EMA Label for indacaterol and ADRB2	EMA	Off (Never On)	Informative PGx				
+PA166104780	Annotation of FDA Label for carbamazepine and HLA-B	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166104781	Annotation of FDA Label for dasatinib and ABL1,BCR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104782	Annotation of FDA Label for azathioprine and NUDT15,TPMT	FDA	On	Testing recommended	Prescribing Info			
+PA166104784	Annotation of FDA Label for diazepam and CYP2C19	FDA	On	Actionable PGx				
+PA166104785	Annotation of FDA Label for erlotinib and EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104786	Annotation of FDA Label for chloroquine and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166104787	Annotation of FDA Label for cevimeline and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166104789	Annotation of FDA Label for gefitinib and EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104790	Annotation of FDA Label for imatinib and ABL1,BCR,FIP1L1,KIT,PDGFRA,PDGFRB	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104791	Annotation of FDA Label for lapatinib and ERBB2,ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104792	Annotation of FDA Label for fulvestrant and ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104794	Annotation of FDA Label for sodium benzoate / sodium phenylacetate and ARG1,ASL,ASS1,CPS1,NAGS,OTC	FDA	Off (Formerly On)	Testing required				
+PA166104795	Annotation of FDA Label for busulfan and ABL1,BCR	FDA	On	Actionable PGx	Prescribing Info			Cancer Genome
+PA166104796	Annotation of FDA Label for trastuzumab emtansine and ERBB2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104797	Annotation of FDA Label for letrozole and ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104798	Annotation of FDA Label for propranolol and CYP2D6	FDA	On	Informative PGx				
+PA166104800	Annotation of FDA Label for indacaterol and UGT1A1	FDA	On	Informative PGx				
+PA166104801	Annotation of FDA Label for peginterferon alfa-2b and IFNL3	FDA	On	Actionable PGx				
+PA166104802	Annotation of FDA Label for capecitabine and DPYD	FDA	On	Actionable PGx	Prescribing Info			
+PA166104803	Annotation of FDA Label for maraviroc and CCR5	FDA	Off (Formerly On)	Informative PGx				
+PA166104804	Annotation of FDA Label for tositumomab and MS4A1	FDA	Off (Formerly On)	Informative PGx				Cancer Genome
+PA166104805	Annotation of FDA Label for thioridazine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104806	Annotation of FDA Label for tolterodine and CYP2D6	FDA	On	Actionable PGx				
+PA166104808	Annotation of FDA Label for nelfinavir and CYP2C19,CYP3A	FDA	Off (Formerly On)	Informative PGx				
+PA166104809	Annotation of FDA Label for panitumumab and EGFR,KRAS,NRAS	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104810	Annotation of FDA Label for mercaptopurine and NUDT15,TPMT	FDA	On	Testing recommended	Prescribing Info	Dosing Info		
+PA166104811	Annotation of FDA Label for quinidine and CYP2D6	FDA	On	Informative PGx				
+PA166104812	Annotation of FDA Label for protriptyline and CYP2D6	FDA	On	Actionable PGx				
+PA166104813	Annotation of FDA Label for carvedilol and CYP2D6	FDA	On	Actionable PGx				
+PA166104814	Annotation of FDA Label for drospirenone / ethinyl estradiol and CYP2C19	FDA	On	Informative PGx				
+PA166104815	Annotation of FDA Label for clozapine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166104817	Annotation of FDA Label for tretinoin and PML,RARA	FDA	On	Testing required				Cancer Genome
+PA166104818	Annotation of FDA Label for voriconazole and CYP2C19	FDA	On	Actionable PGx				
+PA166104820	Annotation of FDA Label for doxepin and CYP2C19,CYP2D6	FDA	On	Actionable PGx				
+PA166104821	Annotation of EMA Label for arsenic trioxide and PML,RARA	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104822	Annotation of FDA Label for terbinafine and CYP2D6	FDA	Off (Formerly On)	Informative PGx				
+PA166104825	Annotation of FDA Label for valproic acid and OTC	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104826	Annotation of FDA Label for cetuximab and EGFR,KRAS,NRAS	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104827	Annotation of FDA Label for atomoxetine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104829	Annotation of FDA Label for tetrabenazine and CYP2D6	FDA	On	Testing required	Prescribing Info	Dosing Info		
+PA166104830	Annotation of FDA Label for tiotropium and CYP2D6	FDA	Off (Formerly On)	Informative PGx				
+PA166104832	Annotation of FDA Label for carisoprodol and CYP2C19	FDA	On	Actionable PGx	Prescribing Info			
+PA166104833	Annotation of FDA Label for abacavir and HLA-B	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166104835	Annotation of FDA Label for fluoxetine and CYP2D6	FDA	On	Informative PGx				
+PA166104836	Annotation of FDA Label for metoprolol and CYP2D6	FDA	On	Informative PGx				
+PA166104839	Annotation of FDA Label for aripiprazole and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104840	Annotation of EMA Label for lapatinib and ERBB2,ESR1,ESR2	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104842	Annotation of FDA Label for nilotinib and ABL1,BCR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104843	Annotation of FDA Label for celecoxib and CYP2C9	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104845	Annotation of FDA Label for dapsone and CYB5R3,G6PD	FDA	On	Actionable PGx				
+PA166104846	Annotation of FDA Label for arsenic trioxide and PML,RARA	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104850	Annotation of FDA Label for isoniazid / pyrazinamide / rifampin and NAT2	FDA	On	Informative PGx				
+PA166104851	Annotation of FDA Label for ticagrelor and CYP2C19	FDA	On	Informative PGx				
+PA166104853	Annotation of FDA Label for cisplatin and TPMT	FDA	On	Informative PGx				
+PA166104854	Annotation of FDA Label for fluvoxamine and CYP2D6	FDA	On	Actionable PGx				
+PA166104855	Annotation of FDA Label for boceprevir and IFNL3	FDA	On	Informative PGx				
+PA166104859	Annotation of FDA Label for crizotinib and ALK,ROS1	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104862	Annotation of FDA Label for desipramine and CYP2D6	FDA	On	Actionable PGx				
+PA166104864	Annotation of FDA Label for paroxetine and CYP2D6	FDA	On	Informative PGx				
+PA166104868	Annotation of FDA Label for modafinil and CYP2D6	FDA	On	Actionable PGx				
+PA166104869	Annotation of FDA Label for galantamine and CYP2D6	FDA	On	Informative PGx	Prescribing Info			
+PA166104870	Annotation of FDA Label for pimozide and CYP2D6	FDA	On	Testing required	Prescribing Info	Dosing Info		
+PA166104872	Annotation of EMA Label for boceprevir and IFNL3	EMA	Off (Never On)	Actionable PGx				
+PA166104874	Annotation of FDA Label for sulfamethoxazole / trimethoprim and G6PD,NAT2	FDA	On	Actionable PGx				
+PA166104876	Annotation of FDA Label for primaquine and G6PD	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166104879	Annotation of FDA Label for imipramine and CYP2D6	FDA	On	Actionable PGx				
+PA166104880	Annotation of FDA Label for nefazodone and CYP2D6	FDA	On	Informative PGx	Prescribing Info			
+PA166104882	Annotation of EMA Label for desloratadine	EMA	Off (Never On)	Informative PGx				
+PA166104883	Annotation of FDA Label for denileukin diftitox and IL2RA	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104884	Annotation of FDA Label for clobazam and CYP2C19	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104885	Annotation of FDA Label for norfloxacin and G6PD	FDA	Off (Never On)	Actionable PGx				
+PA166104887	Annotation of FDA Label for iloperidone and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104888	Annotation of FDA Label for nortriptyline and CYP2D6	FDA	On	Actionable PGx				
+PA166104889	Annotation of FDA Label for pertuzumab and ERBB2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104890	Annotation of FDA Label for ivacaftor and CFTR	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166104891	Annotation of FDA Label for nalidixic acid and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166123048	Annotation of EMA Label for cabazitaxel and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166114381	Annotation of EMA Label for sodium phenylbutyrate and ASS1,CPS1,OTC	EMA	Off (Never On)	Informative PGx	Prescribing Info		Alternate Drug	
+PA166114903	Annotation of FDA Label for afatinib and EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166114908	Annotation of FDA Label for carglumic acid and NAGS	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166104892	Annotation of FDA Label for sulfasalazine and G6PD,NAT2	FDA	On	Actionable PGx	Prescribing Info			
+PA166104893	Annotation of FDA Label for perphenazine and CYP2D6	FDA	On	Actionable PGx				
+PA166104894	Annotation of EMA Label for rasburicase and G6PD	EMA	Off (Never On)	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104895	Annotation of FDA Label for erythromycin ethylsuccinate / sulfisoxazole acetyl and G6PD	FDA	On	Actionable PGx				
+PA166104896	Annotation of EMA Label for abacavir and HLA-B	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	
+PA166104897	Annotation of FDA Label for moviprep and G6PD	FDA	Off (Formerly On)	Actionable PGx	Prescribing Info			
+PA166104898	Annotation of FDA Label for lansoprazole and CYP2C19	FDA	On	Informative PGx				
+PA166104899	Annotation of EMA Label for aripiprazole and CYP2D6	EMA	Off (Never On)	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104900	Annotation of FDA Label for pegloticase and G6PD	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166104901	Annotation of FDA Label for pantoprazole and CYP2C19	FDA	On	Actionable PGx	Prescribing Info			
+PA166104903	Annotation of FDA Label for nitrofurantoin and G6PD	FDA	On	Actionable PGx				
+PA166104904	Annotation of EMA Label for brentuximab vedotin and TNFRSF8	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104905	Annotation of EMA Label for capecitabine and DPYD	EMA	Off (Never On)	Testing recommended	Prescribing Info		Alternate Drug	
+PA166104906	Annotation of FDA Label for probenecid and G6PD	FDA	On	Actionable PGx				
+PA166104908	Annotation of EMA Label for cetuximab and EGFR,KRAS,NRAS	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104911	Annotation of EMA Label for everolimus and ERBB2,ESR1,ESR2	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104912	Annotation of FDA Label for eltrombopag and F5,SERPINC1	FDA	On	Actionable PGx				
+PA166104913	Annotation of FDA Label for everolimus and ERBB2,ESR1,ESR2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104914	Annotation of EMA Label for dasatinib and ABL1,BCR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104915	Annotation of EMA Label for olanzapine and CYP1A2,CYP2D6	EMA	Off (Never On)	Informative PGx				
+PA166104916	Annotation of FDA Label for codeine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166104917	Annotation of FDA Label for prasugrel and CYP2B6,CYP2C19,CYP2C9,CYP3A5	FDA	On	Informative PGx				
+PA166104919	Annotation of EMA Label for fulvestrant and ERBB2,ESR1,ESR2,PGR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104921	Annotation of FDA Label for omeprazole and CYP2C19	FDA	On	Actionable PGx				
+PA166104922	Annotation of FDA Label for flurbiprofen and CYP2C9	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166104926	Annotation of EMA Label for imatinib and ABL1,BCR,FIP1L1,KIT,PDGFRA,PDGFRB	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166104927	Annotation of EMA Label for lenalidomide	EMA	Off (Never On)	Informative PGx				
+PA166104928	Annotation of EMA Label for ivacaftor and CFTR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	
+PA166104930	Annotation of EMA Label for gefitinib and EGFR	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166114928	Annotation of FDA Label for mipomersen and LDLR	FDA	Off (Formerly On)	Informative PGx				
+PA166104923	Annotation of FDA Label for exemestane and ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166114910	Annotation of FDA Label for chlorpropamide and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166170048	Annotation of FDA Label for ribociclib and ERBB2,ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166170052	Annotation of FDA Label for valbenazine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166179887	Annotation of FDA Label for raltegravir and UGT1A1	FDA	On	Informative PGx				
+PA166182768	Annotation of FDA Label for gilteritinib and FLT3	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166119824	Annotation of EMA Label for belimumab and TNFSF13B	EMA	Off (Never On)	Informative PGx				
+PA166119827	Annotation of EMA Label for dextromethorphan / quinidine and CYP2D6	EMA	Off (Never On)	Actionable PGx	Prescribing Info			
+PA166122488	Annotation of EMA Label for regorafenib and KRAS	EMA	Off (Never On)	Actionable PGx				Cancer Genome
+PA166122968	Annotation of EMA Label for sildenafil	EMA	Off (Never On)	Informative PGx				
+PA166122970	Annotation of FDA Label for succinylcholine and BCHE,CACNA1S,RYR1	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166114382	Annotation of EMA Label for ticagrelor and CYP2C19	EMA	Off (Never On)	Actionable PGx				
+PA166114926	Annotation of FDA Label for mafenide and G6PD	FDA	On	Actionable PGx				
+PA166114930	Annotation of FDA Label for homoharringtonine and ABL1,BCR	FDA	Off (Formerly On)	Informative PGx				Cancer Genome
+PA166114912	Annotation of FDA Label for dabrafenib and BRAF	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166119825	Annotation of EMA Label for carglumic acid and NAGS	EMA	Off (Never On)	Testing required	Prescribing Info		Alternate Drug	
+PA166105240	Annotation of FDA Label for rituximab and MS4A1	FDA	On	Informative PGx				Cancer Genome
+PA166105058	Annotation of FDA Label for pazopanib and HLA-B,UGT1A1	FDA	On	Actionable PGx				
+PA166121246	Annotation of EMA Label for ibritumomab and MS4A1	EMA	Off (Never On)	Informative PGx				
+PA166121251	Annotation of EMA Label for mercaptopurine and NUDT15,TPMT	EMA	Off (Never On)	Actionable PGx	Prescribing Info			
+PA166122594	Annotation of FDA Label for sofosbuvir and IFNL3	FDA	On	Informative PGx				
+PA166151878	Annotation of FDA Label for lapatinib and HLA-DQA1,HLA-DRB1	FDA	On	Actionable PGx				
+PA166151881	Annotation of FDA Label for rasburicase and G6PD	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166151882	Annotation of FDA Label for carbamazepine and HLA-A	FDA	On	Actionable PGx				
+PA166160289	Annotation of HCSC Label for brivaracetam and CYP2C19	HCSC		Actionable PGx				
+PA166185194	Annotation of FDA Label for raloxifene and ESR1,ESR2	FDA	On	Informative PGx				
+PA166159064	Annotation of FDA Label for elosulfase alfa and GALNS	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166159938	Annotation of HCSC Label for belimumab and TNFSF13B	HCSC		Informative PGx				
+PA166160288	Annotation of HCSC Label for brentuximab vedotin and TNFRSF8	HCSC		Informative PGx				
+PA166183246	Annotation of EMA Label for osimertinib and EGFR	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182765	Annotation of FDA Label for flutamide and G6PD	FDA	On	Actionable PGx				
+PA166182727	Annotation of FDA Label for ivosidenib and IDH1	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182724	Annotation of FDA Label for ixabepilone and ERBB2,ESR1,ESR2,PGR	FDA	On	Informative PGx				Cancer Genome
+PA166182744	Annotation of FDA Label for lorlatinib and ALK	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182747	Annotation of FDA Label for lorlatinib and ROS1	FDA	On	Informative PGx				Cancer Genome
+PA166182749	Annotation of FDA Label for lusutrombopag and F2,F5,PROC,PROS1,SERPINC1	FDA	On	Actionable PGx				
+PA166182751	Annotation of FDA Label for mepivacaine and CYB5R3,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166182730	Annotation of FDA Label for amphetamine and CYP2D6	FDA	On	Informative PGx				
+PA166182940	Annotation of EMA Label for cholic acid and AKR1D1,AMACR,CYP27A1,CYP7A1,HSD3B7	EMA		Testing required	Prescribing Info		Alternate Drug	
+PA166181925	Annotation of FDA Label for tamoxifen and CYP2D6	FDA	On	Actionable PGx				
+PA166182725	Annotation of FDA Label for eribulin and ERBB2,ESR1,ESR2,PGR	FDA	On	Informative PGx				Cancer Genome
+PA166182726	Annotation of FDA Label for rivaroxaban and F5	FDA	On	Informative PGx				
+PA166182787	Annotation of FDA Label for tolbutamide and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166182750	Annotation of FDA Label for toremifene and ESR1,ESR2	FDA	On	Testing required	Prescribing Info			Cancer Genome
+PA166182789	Annotation of EMA Label for toremifene and ESR1,ESR2	EMA		Actionable PGx	Prescribing Info			Cancer Genome
+PA166183425	Annotation of EMA Label for talazoparib and BRCA1,BRCA2,ERBB2	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166160121	Annotation of FDA Label for nivolumab and ALK,BRAF,CD274,EGFR	FDA	On	Informative PGx				Cancer Genome
+PA166159964	Annotation of FDA Label for olaparib and BRCA1,BRCA2,ERBB2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166160021	Annotation of FDA Label for cabozantinib and RET	FDA	On	Informative PGx				
+PA166170957	Annotation of FDA Label for vemurafenib and HRAS,KRAS,NRAS	FDA	On	Informative PGx				Cancer Genome
+PA166170958	Annotation of FDA Label for valproic acid and POLG	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166178750	Annotation of FDA Label for metoclopramide and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166179855	Annotation of FDA Label for avatrombopag and F2,F5,PROC,PROS1,SERPINC1	FDA	On	Actionable PGx				
+PA166179878	Annotation of FDA Label for encorafenib and BRAF	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182734	Annotation of FDA Label for larotrectinib sulfate and NTRK1,NTRK2,NTRK3	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182737	Annotation of FDA Label for lidocaine and tetracaine and CYB5R3,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166160061	Annotation of FDA Label for dinutuximab and MYCN	FDA	On	Informative PGx				Cancer Genome
+PA166160133	Annotation of FDA Label for palbociclib and ERBB2,ESR1,ESR2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166160052	Annotation of FDA Label for palonosetron and CYP2D6	FDA	On	Informative PGx				
+PA166182941	Annotation of EMA Label for cobimetinib and BRAF	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182943	Annotation of EMA Label for dolutegravir and UGT1A1	EMA		Actionable PGx				
+PA166182944	Annotation of EMA Label for duloxetine and CYP2D6	EMA		Actionable PGx				
+PA166129553	Annotation of FDA Label for belinostat and UGT1A1	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166183424	Annotation of EMA Label for rucaparib and CYP1A2,CYP2D6	EMA		Informative PGx				
+PA166182762	Annotation of FDA Label for elagolix and SLCO1B1	FDA	On	Actionable PGx				
+PA166129528	Annotation of HCSC Label for sodium nitrite and G6PD	HCSC		Actionable PGx				
+PA166182753	Annotation of FDA Label for meloxicam and CYP2C9	FDA	Off (Never On)	Actionable PGx	Prescribing Info			
+PA166182759	Annotation of FDA Label for chloroprocaine and CYB5R3,G6PD	FDA	On	Actionable PGx				
+PA166182760	Annotation of FDA Label for docetaxel and ESR1,ESR2,PGR	FDA	On	Informative PGx				Cancer Genome
+PA166182729	Annotation of FDA Label for amoxapine and CYP2D6	FDA	On	Actionable PGx				
+PA166183621	Annotation of Swissmedic Label for mefloquine and G6PD	Swissmedic		Informative PGx				
+PA166183593	Annotation of Swissmedic Label for acenocoumarol and CYP2C9	Swissmedic		Actionable PGx				
+PA166160046	Annotation of FDA Label for cobimetinib and BRAF	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166184404	Annotation of Swissmedic Label for tamsulosin and CYP2D6,CYP3A4	Swissmedic		Actionable PGx				
+PA166184238	Annotation of Swissmedic Label for voriconazole and CYP2C19	Swissmedic		Actionable PGx				
+PA166151974	Annotation of HCSC Label for nilotinib and UGT1A1	HCSC		Actionable PGx				
+PA166160010	Annotation of FDA Label for dolutegravir and UGT1A1	FDA	On	Actionable PGx				
+PA166160049	Annotation of FDA Label for lacosamide and CYP2C19	FDA	On	Informative PGx				
+PA166160051	Annotation of FDA Label for alectinib and ALK	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182755	Annotation of FDA Label for vincristine and ABL1,BCR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182728	Annotation of FDA Label for ropivacaine and CYB5R3,G6PD	FDA	On	Actionable PGx				
+PA166182742	Annotation of FDA Label for talazoparib and BRCA1,BRCA2	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166182752	Annotation of FDA Label for talazoparib and ERBB2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166183590	Annotation of Swissmedic Label for maraviroc and CYP3A5	Swissmedic		Actionable PGx				
+PA166163435	Annotation of FDA Label for olaratumab and PDGFRA	FDA	On	Informative PGx				Cancer Genome
+PA166163439	Annotation of FDA Label for elbasvir / grazoprevir and IFNL3	FDA	On	Informative PGx				
+PA166169920	Annotation of FDA Label for niraparib and BRCA1,BRCA2	FDA	On	Informative PGx				Cancer Genome
+PA166182280	Annotation of FDA Label for dacomitinib and EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182949	Annotation of EMA Label for erlotinib and UGT1A1	EMA		Actionable PGx				
+PA166183219	Annotation of EMA Label for mirabegron and CYP2D6	EMA		Informative PGx	Prescribing Info			
+PA166183243	Annotation of EMA Label for olaparib and BRCA1,BRCA2,ERBB2	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166183563	Annotation of Swissmedic Label for abacavir and HLA-B	Swissmedic		Testing required	Prescribing Info		Alternate Drug	
+PA166163431	Annotation of FDA Label for isosorbide mononitrate and CYB5R1,CYB5R2,CYB5R3,CYB5R4	FDA	On	Informative PGx				
+PA166177479	Annotation of FDA Label for cariprazine and CYP2D6	FDA	On	Informative PGx				
+PA166177509	Annotation of FDA Label for formoterol and CYP2C19,CYP2D6	FDA	On	Informative PGx				
+PA166177514	Annotation of FDA Label for mirabegron and CYP2D6	FDA	On	Actionable PGx				
+PA166183442	Annotation of EMA Label for vandetanib and RET	EMA		Testing recommended				Cancer Genome
+PA166183421	Annotation of EMA Label for ribociclib and ERBB2,ESR1,ESR2,PGR	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166183441	Annotation of EMA Label for umeclidinium and CYP2D6	EMA		Informative PGx				
+PA166183423	Annotation of EMA Label for rucaparib and BRCA1,BRCA2	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166184917	Annotation of FDA Label for avatrombopag and CYP2C9	FDA	On	Informative PGx				
+PA166170929	Annotation of FDA Label for gefitinib and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166170931	Annotation of FDA Label for midostaurin and KIT,NPM1	FDA	On	Informative PGx				
+PA166170934	Annotation of FDA Label for primaquine and CYB5R1,CYB5R2,CYB5R3,CYB5R4	FDA	On	Actionable PGx				
+PA166170935	Annotation of FDA Label for rucaparib and CYP1A2,CYP2D6	FDA	On	Informative PGx				
+PA166170937	Annotation of FDA Label for trametinib and G6PD	FDA	On	Informative PGx				
+PA166170938	Annotation of FDA Label for trametinib and HRAS,KRAS,NRAS	FDA	On	Informative PGx				Cancer Genome
+PA166182766	Annotation of FDA Label for fosphenytoin and HLA-B	FDA	On	Actionable PGx	Prescribing Info			
+PA166182928	Annotation of EMA Label for binimetinib and BRAF	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182932	Annotation of EMA Label for brivaracetam and CYP2C19	EMA		Actionable PGx				
+PA166182934	Annotation of EMA Label for cerliponase alfa and TPP1	EMA		Testing required	Prescribing Info		Alternate Drug	
+PA166182942	Annotation of EMA Label for dacomitinib and EGFR	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182953	Annotation of EMA Label for ivacaftor / lumacaftor and CFTR	EMA		Testing required	Prescribing Info		Alternate Drug	
+PA166182954	Annotation of EMA Label for ivacaftor / tezacaftor and CFTR	EMA		Testing required	Prescribing Info		Alternate Drug	
+PA166160668	Annotation of PMDA Label for allopurinol and HLA-B	PMDA		Actionable PGx				
+PA166161536	Annotation of PMDA Label for atazanavir and CYP2C19	PMDA		Actionable PGx				
+PA166160672	Annotation of FDA Label for tamsulosin and CYP2D6	FDA	On	Actionable PGx	Prescribing Info			
+PA166182741	Annotation of FDA Label for articaine / epinephrine and CYB5R3,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166182746	Annotation of FDA Label for ceftriaxone and CYB5R3,G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166131627	Annotation of FDA Label for osimertinib and EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166159963	Annotation of FDA Label for blinatumomab and ABL1,BCR	FDA	On	Informative PGx				Cancer Genome
+PA166180000	Annotation of FDA Label for meclizine and CYP2D6	FDA	On	Actionable PGx				
+PA166182739	Annotation of FDA Label for tafenoquine and G6PD	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166182757	Annotation of FDA Label for inotersen and TTR	FDA	On	Informative PGx				
+PA166182890	Annotation of FDA Label for olaparib and ESR1,ESR2,PGR	FDA	On	Informative PGx				Cancer Genome
+PA166184231	Annotation of Swissmedic Label for umeclidinium and CYP2D6	Swissmedic		Informative PGx				
+PA166183184	Annotation of EMA Label for lorlatinib and ALK	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166183200	Annotation of EMA Label for midostaurin and FLT3	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166160005	Annotation of FDA Label for dasabuvir / ombitasvir / paritaprevir / ritonavir and IFNL3	FDA	On	Informative PGx				
+PA166160007	Annotation of FDA Label for lesinurad and CYP2C9	FDA	On	Actionable PGx	Prescribing Info			
+PA166160009	Annotation of FDA Label for pembrolizumab and ALK,CD274,EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166177475	Annotation of FDA Label for abemaciclib and ERBB2,ESR1,ESR2,PGR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166177512	Annotation of FDA Label for inotuzumab ozogamicin and ABL1,BCR	FDA	On	Informative PGx				Cancer Genome
+PA166177516	Annotation of FDA Label for neratinib and ERBB2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166177518	Annotation of FDA Label for sofosbuvir / velpatasvir / voxilaprevir and IFNL3	FDA	On	Informative PGx				
+PA166159586	Annotation of HCSC Label for aliskiren and ABCB1	HCSC		Informative PGx				
+PA166183784	Annotation of Swissmedic Label for amifampridine phosphate and NAT2	Swissmedic		Actionable PGx				
+PA166182719	Annotation of FDA Label for ipilimumab and HLA-A	FDA	On	Informative PGx				
+PA166183782	Annotation of Swissmedic Label for aspirin and G6PD	Swissmedic		Actionable PGx				
+PA166184232	Annotation of Swissmedic Label for venlafaxine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184636	Annotation of FDA Label for tipiracil / trifluridine and ERBB2,KRAS	FDA	On	Testing required	Prescribing Info			Cancer Genome
+PA166185168	Annotation of FDA Label for pitolisant and CYP2D6	FDA	Off (Never On)	Actionable PGx	Prescribing Info	Dosing Info		
+PA166185145	Annotation of FDA Label for brentuximab vedotin and TNFRSF8	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166185156	Annotation of FDA Label for mivacurium chloride and BCHE	FDA	On	Actionable PGx	Prescribing Info			
+PA166169918	Annotation of FDA Label for midostaurin and FLT3	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166159584	Annotation of HCSC Label for afutuzumab and MS4A1	HCSC		Informative PGx				
+PA166182769	Annotation of FDA Label for hydroxychloroquine and G6PD	FDA	On	Actionable PGx	Prescribing Info			
+PA166182738	Annotation of FDA Label for siponimod and CYP2C9	FDA	On	Testing required	Prescribing Info	Dosing Info	Alternate Drug	
+PA166182788	Annotation of HCSC Label for tolbutamide and G6PD	HCSC		Actionable PGx				
+PA166185180	Annotation of FDA Label for nusinersen and SMN2	FDA	On	Informative PGx				
+PA166183249	Annotation of EMA Label for pembrolizumab and CD274	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166185151	Annotation of FDA Label for amifampridine and NAT2	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166170930	Annotation of FDA Label for dabrafenib and HRAS,KRAS,NRAS	FDA	On	Informative PGx				
+PA166170939	Annotation of FDA Label for trastuzumab and ESR1,ESR2,PGR	FDA	On	Actionable PGx				Cancer Genome
+PA166182764	Annotation of FDA Label for emapalumab and PRF1,RAB27A,SH2D1A,STX11,STXBP2,UNC13D,XIAP	FDA	On	Informative PGx				
+PA166169877	Annotation of FDA Label for avelumab and CD274	FDA	On	Informative PGx				Cancer Genome
+PA166169878	Annotation of FDA Label for brigatinib and ALK	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166169880	Annotation of FDA Label for cerliponase alfa and TPP1	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166169884	Annotation of FDA Label for durvalumab and CD274	FDA	On	Informative PGx				Cancer Genome
+PA166177521	Annotation of FDA Label for umeclidinium and CYP2D6	FDA	On	Informative PGx				
+PA166183247	Annotation of EMA Label for palbociclib and ERBB2,ESR1,ESR2,PGR	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166183248	Annotation of EMA Label for palonosetron and CYP2D6	EMA		Informative PGx				
+PA166183251	Annotation of EMA Label for raltegravir and UGT1A1	EMA		Informative PGx	Prescribing Info			
+PA166183783	Annotation of Swissmedic Label for allopurinol and HLA-B	Swissmedic		Actionable PGx	Prescribing Info			
+PA166163417	Annotation of FDA Label for sofosbuvir / velpatasvir and IFNL3	FDA	On	Informative PGx				
+PA166163419	Annotation of FDA Label for rucaparib and BRCA1,BRCA2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166163420	Annotation of FDA Label for venetoclax and FLT3,IDH1,IDH2,NPM1,TP53	FDA	On	Informative PGx				Cancer Genome
+PA166183172	Annotation of EMA Label for lapatinib and HLA-DQA1,HLA-DRB1	EMA		Actionable PGx				
+PA166183209	Annotation of EMA Label for migalastat and GLA	EMA		Testing required	Prescribing Info		Alternate Drug	
+PA166183220	Annotation of EMA Label for neratinib and ERBB2,ESR1,ESR2,PGR	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166184565	Annotation of FDA Label for tafamidis and TTR	FDA	On	Informative PGx				
+PA166184539	Annotation of FDA Label for paliperidone and CYP2D6	FDA	On	Informative PGx				
+PA166184754	Annotation of FDA Label for procainamide and NAT2	FDA	On	Informative PGx	Prescribing Info			
+PA166184561	Annotation of FDA Label for ramucirumab and KRAS	FDA	On	Informative PGx				Cancer Genome
+PA166184524	Annotation of FDA Label for alpelisib and ERBB2,ESR1,ESR2,PIK3CA	FDA	On	Testing required	Prescribing Info			Cancer Genome
+PA166184560	Annotation of FDA Label for ramucirumab and ALK,EGFR	FDA	On	Testing required				Cancer Genome
+PA166163433	Annotation of FDA Label for eteplirsen and DMD	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166182721	Annotation of FDA Label for erdafitinib and FGFR2,FGFR3	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182722	Annotation of FDA Label for erdafitinib and CYP2C9	FDA	On	Actionable PGx				
+PA166182886	Annotation of FDA Label for migalastat and GLA	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166182961	Annotation of FDA Label for duvelisib	FDA	On	Informative PGx				Cancer Genome
+PA166163412	Annotation of FDA Label for ombitasvir / paritaprevir / ritonavir and IFNL3	FDA	On	Informative PGx				
+PA166163414	Annotation of FDA Label for ustekinumab and IL12A,IL12B,IL23A	FDA	On	Actionable PGx				
+PA166170933	Annotation of FDA Label for pertuzumab and ESR1,ESR2,PGR	FDA	On	Actionable PGx				Cancer Genome
+PA166170936	Annotation of FDA Label for tamoxifen and F2,F5	FDA	On	Informative PGx				
+PA166177483	Annotation of FDA Label for desvenlafaxine and CYP2D6	FDA	On	Informative PGx				
+PA166177486	Annotation of FDA Label for enasidenib and IDH2	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166160153	Annotation of PMDA Label for celecoxib and CYP2C9	PMDA	Off (Never On)	Actionable PGx				
+PA166160226	Annotation of PMDA Label for codeine and CYP2D6	PMDA		Actionable PGx				
+PA166160683	Annotation of PMDA Label for dapsone and G6PD	PMDA		Actionable PGx				
+PA166160162	Annotation of PMDA Label for efavirenz and CYP2B6	PMDA		Actionable PGx				
+PA166160669	Annotation of PMDA Label for escitalopram and CYP2C19,CYP2D6	PMDA		Actionable PGx				
+PA166160712	Annotation of PMDA Label for fesoterodine and CYP2D6	PMDA		Actionable PGx				
+PA166160717	Annotation of PMDA Label for letrozole and CYP2A6	PMDA		Actionable PGx				
+PA166160718	Annotation of PMDA Label for methylene blue and BLVRB,G6PD	PMDA		Actionable PGx				
+PA166160719	Annotation of PMDA Label for nalidixic acid and G6PD	PMDA		Actionable PGx				
+PA166160845	Annotation of PMDA Label for perphenazine and CYP2D6	PMDA		Actionable PGx				
+PA166160846	Annotation of PMDA Label for rabeprazole and CYP2C19	PMDA		Actionable PGx				
+PA166160847	Annotation of PMDA Label for sulfadiazine and G6PD	PMDA		Actionable PGx				
+PA166160848	Annotation of PMDA Label for sulfamethoxazole / trimethoprim and G6PD	PMDA		Actionable PGx				
+PA166160849	Annotation of PMDA Label for sulfasalazine and G6PD	PMDA		Actionable PGx				
+PA166160850	Annotation of PMDA Label for tetrabenazine and CYP2D6	PMDA		Actionable PGx				
+PA166160854	Annotation of PMDA Label for moviprep and G6PD	PMDA		Actionable PGx				
+PA166160856	Annotation of PMDA Label for voriconazole and CYP2C19	PMDA		Actionable PGx				
+PA166160274	Annotation of PMDA Label for cetuximab and EGFR,KRAS	PMDA		Testing required				
+PA166160709	Annotation of PMDA Label for eliglustat and CYP2D6	PMDA		Testing required				
+PA166160710	Annotation of PMDA Label for erlotinib and EGFR	PMDA		Testing required				
+PA166160711	Annotation of PMDA Label for everolimus and ERBB2,ESR1,ESR2	PMDA		Testing required				
+PA166160851	Annotation of PMDA Label for vemurafenib and BRAF	PMDA		Testing required				
+PA166161087	Annotation of PMDA Label for isoniazid and NAT2	PMDA		Informative PGx				
+PA166160720	Annotation of PMDA Label for omeprazole and CYP2C19	PMDA		Informative PGx				
+PA166179870	Annotation of FDA Label for binimetinib and BRAF	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166179847	Annotation of FDA Label for ivacaftor / tezacaftor and CFTR	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166179848	Annotation of FDA Label for lofexidine and CYP2D6	FDA	On	Actionable PGx				
+PA166179871	Annotation of FDA Label for binimetinib and UGT1A1	FDA	On	Informative PGx				
+PA166169882	Annotation of FDA Label for deutetrabenazine and CYP2D6	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166151853	Annotation of FDA Label for nilotinib and UGT1A1	FDA	On	Actionable PGx				
+PA166152939	Annotation of FDA Label for ivacaftor / lumacaftor and CFTR	FDA	On	Testing required	Prescribing Info		Alternate Drug	
+PA166182929	Annotation of EMA Label for binimetinib and UGT1A1	EMA		Informative PGx				
+PA166182947	Annotation of EMA Label for elosulfase alfa and GALNS	EMA		Testing required	Prescribing Info		Alternate Drug	
+PA166184223	Annotation of Swissmedic Label for Paracetamol, combinations excl. Psycholeptics (Vicks MediNait Sirup) and CYP2D6,G6PD	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184127	Annotation of Swissmedic Label for acetaminophen / codeine and CYP2D6	Swissmedic		Testing required	Prescribing Info		Alternate Drug	
+PA166184128	Annotation of Swissmedic Label for acetaminophen / codeine and G6PD	Swissmedic		Actionable PGx				
+PA166184109	Annotation of Swissmedic Label for aripiprazole and CYP2D6	Swissmedic		Actionable PGx				
+PA166184115	Annotation of Swissmedic Label for carbamazepine and HLA-A	Swissmedic		Testing recommended	Prescribing Info		Alternate Drug	
+PA166184118	Annotation of Swissmedic Label for carvedilol and CYP2D6	Swissmedic		Informative PGx				
+PA166184119	Annotation of Swissmedic Label for celecoxib and CYP2C9	Swissmedic		Actionable PGx				
+PA166184123	Annotation of Swissmedic Label for citalopram and CYP2C19,CYP2D6	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184130	Annotation of Swissmedic Label for dapoxetine and CYP2D6	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184131	Annotation of Swissmedic Label for darifenacin and CYP2D6	Swissmedic		Actionable PGx				
+PA166184441	Annotation of Swissmedic Label for dolutegravir and CYP3A4,CYP3A5,NR1I2,UGT1A1	Swissmedic		Informative PGx				
+PA166184444	Annotation of Swissmedic Label for eletriptan and CYP2D6	Swissmedic		Informative PGx				
+PA166184445	Annotation of Swissmedic Label for escitalopram and CYP2C19	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184448	Annotation of Swissmedic Label for flucloxacillin and HLA-B	Swissmedic		Actionable PGx				
+PA166184108	Annotation of Swissmedic Label for fluorouracil / salicylic acid and DPYD	Swissmedic		Testing recommended				
+PA166184453	Annotation of Swissmedic Label for fluvoxamine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184454	Annotation of Swissmedic Label for galantamine and CYP2D6	Swissmedic		Actionable PGx				
+PA166184458	Annotation of Swissmedic Label for glimepiride and G6PD	Swissmedic		Actionable PGx				
+PA166184460	Annotation of Swissmedic Label for haloperidol and CYP2D6	Swissmedic		Actionable PGx				
+PA166184377	Annotation of Swissmedic Label for indacaterol and UGT1A1	Swissmedic		Informative PGx				
+PA166184378	Annotation of Swissmedic Label for irinotecan and UGT1A1	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184382	Annotation of Swissmedic Label for lansoprazole and CYP2C19	Swissmedic		Actionable PGx				
+PA166184385	Annotation of Swissmedic Label for lesinurad and CYP2C9	Swissmedic		Informative PGx				
+PA166183790	Annotation of Swissmedic Label for metoprolol and CYP2D6	Swissmedic		Actionable PGx				
+PA166183810	Annotation of Swissmedic Label for mirabegron and CYP2D6	Swissmedic		Informative PGx				
+PA166183881	Annotation of Swissmedic Label for mivacurium chloride and BCHE	Swissmedic		Actionable PGx				
+PA166183901	Annotation of Swissmedic Label for moxifloxacin and G6PD	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184082	Annotation of Swissmedic Label for nicorandil and G6PD	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184459	Annotation of Swissmedic Label for nitroglycerin and G6PD	Swissmedic		Actionable PGx				
+PA166184156	Annotation of Swissmedic Label for norfloxacin and G6PD	Swissmedic		Actionable PGx				
+PA166184159	Annotation of Swissmedic Label for omeprazole and CYP2C19	Swissmedic		Actionable PGx				
+PA166184222	Annotation of Swissmedic Label for pantoprazole and CYP2C19	Swissmedic		Informative PGx				
+PA166184345	Annotation of Swissmedic Label for phenytoin and CYP2C9,HLA-B	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184373	Annotation of Swissmedic Label for piroxicam and CYP2C9	Swissmedic		Actionable PGx				
+PA166184381	Annotation of Swissmedic Label for prilocaine and G6PD	Swissmedic		Actionable PGx				
+PA166184402	Annotation of Swissmedic Label for ranolazine and CYP2D6	Swissmedic		Actionable PGx	Prescribing Info			
+PA166184499	Annotation of Swissmedic Label for rosuvastatin and ABCG2,SLCO1B1	Swissmedic		Actionable PGx	Prescribing Info			
+PA166160056	Annotation of FDA Label for cholic acid and AKR1D1,AMACR,CYP27A1,CYP7A1,DHCR7,HSD3B7	FDA	Off (Formerly On)	Testing required	Prescribing Info		Alternate Drug	
+PA166182923	Annotation of EMA Label for abemaciclib and ERBB2,ESR1,ESR2,PGR	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182924	Annotation of EMA Label for alectinib and ALK	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166182926	Annotation of EMA Label for atezolizumab and CD274	EMA		Testing required	Prescribing Info			Cancer Genome
+PA166182930	Annotation of EMA Label for brexpiprazole and CYP2D6	EMA		Actionable PGx	Prescribing Info	Dosing Info		
+PA166182945	Annotation of EMA Label for efavirenz and CYP2B6	EMA		Actionable PGx				
+PA166182950	Annotation of EMA Label for gefitinib and CYP2D6	EMA		Actionable PGx	Prescribing Info			
+PA166182951	Annotation of EMA Label for glibenclamide and G6PD	EMA		Actionable PGx	Prescribing Info		Alternate Drug	
+PA166183171	Annotation of EMA Label for lacosamide and CYP2C19	EMA		Informative PGx				
+PA166183183	Annotation of EMA Label for lidocaine / prilocaine and G6PD	EMA		Actionable PGx				
+PA166184426	Annotation of Swissmedic Label for tolterodine and CYP2D6,CYP3A4	Swissmedic		Actionable PGx				
+PA166184234	Annotation of Swissmedic Label for vernakalant and CYP2D6	Swissmedic		Informative PGx				
+PA166184110	Annotation of Swissmedic Label for vitamin c and G6PD	Swissmedic		Actionable PGx	Prescribing Info	Dosing Info		
+PA166184504	Annotation of Swissmedic Label for zidovudine / lamivudine / abacavir and HLA-B	Swissmedic		Testing required	Prescribing Info			
+PA166185190	Annotation of FDA Label for ospemifene and CYP2B6,CYP2C9	FDA	On	Informative PGx				
+PA166163428	Annotation of FDA Label for ledipasvir / sofosbuvir and IFNL3	FDA	On	Informative PGx				
+PA166163429	Annotation of FDA Label for atezolizumab and ALK,CD274,EGFR	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166163430	Annotation of FDA Label for isosorbide dinitrate and CYB5R1,CYB5R2,CYB5R3,CYB5R4	FDA	On	Informative PGx				
+PA166182021	Annotation of FDA Label for amifampridine phosphate and NAT2	FDA	On	Actionable PGx	Prescribing Info	Dosing Info		
+PA166123390	Annotation of EMA Label for fampridine and SLC22A2	EMA	Off (Never On)	Informative PGx				
+PA166123412	Annotation of EMA Label for sunitinib and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123414	Annotation of EMA Label for dronedarone and CYP2D6,CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123417	Annotation of EMA Label for telithromycin and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123421	Annotation of EMA Label for atazanavir and CYP2C19	EMA	Off (Never On)	Testing recommended				
+PA166123424	Annotation of EMA Label for darunavir and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123487	Annotation of FDA Label for eliglustat and CYP2D6	FDA	On	Testing required	Prescribing Info	Dosing Info		
+PA166123553	Annotation of PMDA Label for abacavir and HLA-B	PMDA	Off (Never On)	Informative PGx				
+PA166123527	Annotation of PMDA Label for arsenic trioxide and PML,RARA	PMDA	Off (Never On)	Testing required				
+PA166123528	Annotation of PMDA Label for atomoxetine and CYP2D6	PMDA	Off (Never On)	Actionable PGx				
+PA166123529	Annotation of PMDA Label for atorvastatin and LDLR	PMDA	Off (Never On)	Informative PGx				
+PA166123530	Annotation of PMDA Label for azathioprine and TPMT	PMDA	Off (Never On)	Actionable PGx				
+PA166123531	Annotation of PMDA Label for capecitabine and DPYD	PMDA	Off (Never On)	Actionable PGx				
+PA166123532	Annotation of PMDA Label for carbamazepine and HLA-A,HLA-B	PMDA	Off (Never On)	Actionable PGx				
+PA166123535	Annotation of PMDA Label for clopidogrel and CYP2C19	PMDA	Off (Never On)	Actionable PGx				
+PA166123536	Annotation of PMDA Label for crizotinib and ALK	PMDA	Off (Never On)	Testing required				
+PA166123537	Annotation of PMDA Label for dasatinib and ABL1,BCR	PMDA	Off (Never On)	Testing required				
+PA166123538	Annotation of PMDA Label for eltrombopag and SERPINC1	PMDA		Actionable PGx				
+PA166123539	Annotation of PMDA Label for fluorouracil and DPYD	PMDA		Actionable PGx				
+PA166123540	Annotation of PMDA Label for fulvestrant and ESR1,ESR2	PMDA	Off (Never On)	Testing required				
+PA166123541	Annotation of PMDA Label for gefitinib and CYP2D6,EGFR	PMDA		Testing required				
+PA166123542	Annotation of PMDA Label for imatinib and ABL1,BCR	PMDA		Testing required				
+PA166123543	Annotation of PMDA Label for indacaterol and UGT1A1	PMDA		Actionable PGx				
+PA166123526	Annotation of PMDA Label for irinotecan and UGT1A1	PMDA		Testing recommended				
+PA166123544	Annotation of PMDA Label for lapatinib and ERBB2,HLA-DQA1,HLA-DRB1	PMDA		Testing required				
+PA166123545	Annotation of PMDA Label for lenalidomide	PMDA		Informative PGx				
+PA166123546	Annotation of PMDA Label for mycophenolic acid and HPRT1	PMDA		Actionable PGx				
+PA166123547	Annotation of PMDA Label for panitumumab and KRAS	PMDA		Testing required				
+PA166123548	Annotation of PMDA Label for rasburicase and G6PD	PMDA		Actionable PGx				
+PA166123549	Annotation of PMDA Label for tolterodine and CYP2D6	PMDA		Informative PGx				
+PA166123550	Annotation of PMDA Label for trastuzumab and ERBB2	PMDA	Off (Never On)	Testing required				
+PA166123551	Annotation of PMDA Label for tretinoin and PML,RARA	PMDA		Informative PGx				
+PA166123552	Annotation of PMDA Label for valproic acid and CPS1,OTC	PMDA	Off (Never On)	Actionable PGx				
+PA166127662	Annotation of FDA Label for arformoterol and CYP2D6,UGT1A1	FDA	On	Informative PGx				
+PA166129517	Annotation of FDA Label for isoflurane and CACNA1S,RYR1	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166123420	Annotation of EMA Label for fosamprenavir and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166127721	Annotation of HCSC Label for tolterodine and CYP2D6	HCSC		Informative PGx				
+PA166127722	Annotation of HCSC Label for trametinib and BRAF	HCSC		Testing required				
+PA166127724	Annotation of HCSC Label for trastuzumab and ERBB2	HCSC		Testing required				
+PA166127723	Annotation of HCSC Label for trastuzumab emtansine and ERBB2	HCSC		Testing required				
+PA166127725	Annotation of HCSC Label for tretinoin and PML,RARA	HCSC		Testing required				
+PA166127726	Annotation of HCSC Label for valproic acid and OTC,POLG	HCSC		Actionable PGx				
+PA166127727	Annotation of HCSC Label for velaglucerase alfa and GBA	HCSC		Testing required				
+PA166127728	Annotation of HCSC Label for vemurafenib and BRAF	HCSC		Testing required				
+PA166127729	Annotation of HCSC Label for moviprep and G6PD	HCSC		Actionable PGx				
+PA166127730	Annotation of HCSC Label for voriconazole and CYP2C19	HCSC		Actionable PGx				
+PA166127731	Annotation of HCSC Label for vortioxetine and CYP2D6	HCSC		Actionable PGx				
+PA166127732	Annotation of HCSC Label for warfarin and CYP2C9,VKORC1	HCSC		Actionable PGx				
+PA166124617	Annotation of FDA Label for ceritinib and ALK	FDA	On	Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166123408	Annotation of EMA Label for vortioxetine and CYP2D6	EMA	Off (Never On)	Actionable PGx	Prescribing Info	Dosing Info		
+PA166123387	Annotation of EMA Label for axitinib and CYP2C19,UGT1A1	EMA	Off (Never On)	Informative PGx				
+PA166123388	Annotation of EMA Label for ruxolitinib and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166129448	Annotation of EMA Label for ibrutinib	EMA		Testing required	Prescribing Info			Cancer Genome
+PA166129449	Annotation of EMA Label for ceritinib and ALK	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166129515	Annotation of FDA Label for desflurane and CACNA1S,RYR1	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166129516	Annotation of HCSC Label for desflurane and CACNA1S,RYR1	HCSC	Off (Never On)	Actionable PGx				
+PA166123422	Annotation of EMA Label for efavirenz / emtricitabine / tenofovir disoproxil and CYP2B6	EMA	Off (Never On)	Actionable PGx				
+PA166123410	Annotation of EMA Label for ritonavir and CYP2D6,CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123411	Annotation of EMA Label for sirolimus and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123413	Annotation of EMA Label for zonisamide and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123409	Annotation of EMA Label for aliskiren and ABCB1	EMA	Off (Never On)	Informative PGx				
+PA166127655	Annotation of HCSC Label for crizotinib and ALK	HCSC		Testing required				
+PA166127656	Annotation of HCSC Label for dabrafenib and BRAF	HCSC		Testing required				
+PA166127657	Annotation of HCSC Label for dapsone and G6PD	HCSC		Actionable PGx				
+PA166127659	Annotation of HCSC Label for darifenacin and CYP2D6	HCSC		Actionable PGx				
+PA166127627	Annotation of HCSC Label for abacavir and HLA-B	HCSC		Testing required				
+PA166127628	Annotation of HCSC Label for acetaminophen,tramadol and CYP2D6	HCSC		Actionable PGx				
+PA166127629	Annotation of HCSC Label for afatinib and EGFR	HCSC	On	Testing required	Prescribing Info			Cancer Genome
+PA166127630	Annotation of HCSC Label for anastrozole and ESR1,ESR2,PGR	HCSC		Testing required				
+PA166127631	Annotation of HCSC Label for aripiprazole and CYP2D6	HCSC		Actionable PGx				
+PA166123418	Annotation of EMA Label for posaconazole and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166123419	Annotation of EMA Label for indinavir and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166127653	Annotation of HCSC Label for clopidogrel and CYP2C19	HCSC		Actionable PGx				
+PA166127654	Annotation of HCSC Label for codeine and CYP2D6	HCSC		Actionable PGx				
+PA166127660	Annotation of HCSC Label for dasatinib and ABI1,BCR	HCSC		Testing required				
+PA166127661	Annotation of HCSC Label for dexlansoprazole and CYP2C19	HCSC		Actionable PGx				
+PA166127665	Annotation of HCSC Label for divalproex sodium and POLG	HCSC		Testing required				
+PA166127666	Annotation of HCSC Label for drospirenone / ethinyl estradiol and F5,PROC,PROS1,SERPINC1	HCSC		Actionable PGx				
+PA166127667	Annotation of HCSC Label for efavirenz / emtricitabine / tenofovir disoproxil and CYP2B6	HCSC		Actionable PGx				
+PA166127668	Annotation of HCSC Label for eltrombopag and F5,SERPINC1	HCSC		Actionable PGx				
+PA166127669	Annotation of HCSC Label for erlotinib and EGFR	HCSC		Testing required				
+PA166127717	Annotation of HCSC Label for erythromycin ethylsuccinate / sulfisoxazole acetyl and G6PD	HCSC		Actionable PGx				
+PA166127670	Annotation of HCSC Label for esomeprazole and CYP2C19	HCSC		Informative PGx				
+PA166127671	Annotation of HCSC Label for everolimus and ERBB2,ESR1,ESR2	HCSC		Testing required				
+PA166127672	Annotation of HCSC Label for exemestane and ESR1,ESR2	HCSC		Testing required				
+PA166127673	Annotation of HCSC Label for fesoterodine and CYP2D6	HCSC		Actionable PGx				
+PA166127674	Annotation of HCSC Label for fluorouracil and DPYD	HCSC		Actionable PGx				
+PA166127675	Annotation of HCSC Label for galantamine and CYP2D6	HCSC		Informative PGx				
+PA166127676	Annotation of HCSC Label for gefitinib and EGFR	HCSC		Testing required				
+PA166127677	Annotation of HCSC Label for glibenclamide and G6PD	HCSC		Actionable PGx				
+PA166127678	Annotation of HCSC Label for glimepiride and G6PD	HCSC		Actionable PGx				
+PA166127681	Annotation of HCSC Label for ibrutinib	HCSC		Testing required				
+PA166129518	Annotation of HCSC Label for isoflurane and CACNA1S,RYR1	HCSC	Off (Never On)	Actionable PGx				
+PA166123416	Annotation of EMA Label for ivabradine and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166127710	Annotation of HCSC Label for simeprevir and IFNL3	HCSC		Informative PGx				
+PA166127712	Annotation of HCSC Label for sodium phenylbutyrate and ASS1,CPS1,OTC	HCSC		Testing required				
+PA166127713	Annotation of HCSC Label for succinylcholine and BCHE	HCSC		Actionable PGx				
+PA166127714	Annotation of HCSC Label for sulfadiazine and G6PD	HCSC		Actionable PGx				
+PA166127715	Annotation of HCSC Label for sulfamethoxazole / trimethoprim and G6PD	HCSC		Actionable PGx				
+PA166127716	Annotation of HCSC Label for sulfasalazine and G6PD	HCSC		Actionable PGx				
+PA166127718	Annotation of HCSC Label for tamoxifen and CYP2D6,ESR1,ESR2	HCSC		Testing required				
+PA166129447	Annotation of EMA Label for eliglustat and CYP2D6	EMA		Testing required	Prescribing Info	Dosing Info	Alternate Drug	
+PA166127663	Annotation of FDA Label for divalproex sodium and POLG	FDA	Off (Formerly On)	Testing required	Prescribing Info		Alternate Drug	
+PA166127682	Annotation of HCSC Label for imatinib and ABI1,BCR,FIP1L1,KIT,PDGFRA,PDGFRB	HCSC		Testing required				
+PA166127683	Annotation of HCSC Label for irinotecan and UGT1A1	HCSC		Actionable PGx				
+PA166127684	Annotation of HCSC Label for ivacaftor and CFTR	HCSC		Testing required				
+PA166127685	Annotation of HCSC Label for lapatinib and ERBB2,HLA-DQA1,HLA-DRB1	HCSC		Testing required				
+PA166127686	Annotation of HCSC Label for lenalidomide	HCSC		Informative PGx				
+PA166127687	Annotation of HCSC Label for letrozole and ESR1,ESR2,PGR	HCSC		Testing required				
+PA166127688	Annotation of HCSC Label for lomitapide and LDLR	HCSC		Informative PGx				
+PA166127690	Annotation of HCSC Label for mercaptopurine and TPMT	HCSC		Actionable PGx				
+PA166127691	Annotation of HCSC Label for metoprolol and CYP2D6	HCSC		Actionable PGx				
+PA166127692	Annotation of HCSC Label for mycophenolic acid and HPRT1	HCSC		Actionable PGx				
+PA166127693	Annotation of HCSC Label for nilotinib and ABI1,BCR	HCSC		Testing required				
+PA166127694	Annotation of HCSC Label for nitrofurantoin and G6PD	HCSC		Actionable PGx				
+PA166127695	Annotation of HCSC Label for ethinyl estradiol / norelgestromin and F2,F5,MTHFR,PROC,PROS1,SERPINC1	HCSC		Actionable PGx				
+PA166127696	Annotation of HCSC Label for norfloxacin and G6PD	HCSC		Actionable PGx				
+PA166127697	Annotation of HCSC Label for nortriptyline and CYP2D6	HCSC		Actionable PGx				
+PA166127698	Annotation of HCSC Label for omeprazole and CYP2C19	HCSC		Informative PGx				
+PA166129450	Annotation of EMA Label for trametinib and BRAF	EMA		Testing required	Prescribing Info		Alternate Drug	Cancer Genome
+PA166123423	Annotation of EMA Label for tipranavir and CYP3A4	EMA	Off (Never On)	Informative PGx				
+PA166127719	Annotation of HCSC Label for tetrabenazine and CYP2D6	HCSC		Actionable PGx				
+PA166127720	Annotation of HCSC Label for thioguanine and TPMT	HCSC		Actionable PGx				
+PA166129519	Annotation of FDA Label for sevoflurane and CACNA1S,RYR1	FDA	On	Actionable PGx	Prescribing Info		Alternate Drug	
+PA166129520	Annotation of HCSC Label for sevoflurane and CACNA1S,RYR1	HCSC	Off (Never On)	Actionable PGx				
