@@ -1,0 +1,382 @@
+id,name,obj_cls,drug_url,biomarker
+PA448004,abacavir,Chemical,/chemical/PA448004,t
+PA166153471,abemaciclib,Chemical,/chemical/PA166153471,t
+PA452632,acenocoumarol,Chemical,/chemical/PA452632,f
+PA448015,acetaminophen,Chemical,/chemical/PA448015,f
+PA166184061,acetaminophen / codeine,Chemical,/chemical/PA166184061,f
+PA166184496,acetaminophen / tramadol,Chemical,/chemical/PA166184496,f
+PA165981154,afatinib,Chemical,/chemical/PA165981154,t
+PA166122586,afutuzumab,Chemical,/chemical/PA166122586,f
+PA166160050,alectinib,Chemical,/chemical/PA166160050,t
+PA166159961,alirocumab,Chemical,/chemical/PA166159961,f
+PA143487910,aliskiren,Chemical,/chemical/PA143487910,f
+PA448320,allopurinol,Chemical,/chemical/PA448320,f
+PA166184523,alpelisib,Chemical,/chemical/PA166184523,t
+PA166185150,amifampridine,Chemical,/chemical/PA166185150,t
+PA166182002,amifampridine phosphate,Chemical,/chemical/PA166182002,t
+PA448385,amitriptyline,Chemical,/chemical/PA448385,t
+PA166183785,amlodipine / atorvastatin / perindopril arginine,Chemical,/chemical/PA166183785,f
+PA448405,amoxapine,Chemical,/chemical/PA448405,t
+PA448408,amphetamine,Chemical,/chemical/PA448408,t
+PA448432,anastrozole,Chemical,/chemical/PA448432,t
+PA452200,antithrombotic agents,Chemical,/chemical/PA452200,f
+PA164743977,arformoterol,Chemical,/chemical/PA164743977,t
+PA10026,aripiprazole,Chemical,/chemical/PA10026,t
+PA166161216,aripiprazole lauroxil,Chemical,/chemical/PA166161216,t
+PA448486,arsenic trioxide,Chemical,/chemical/PA448486,t
+PA166182783,articaine / epinephrine,Chemical,/chemical/PA166182783,t
+PA448497,aspirin,Chemical,/chemical/PA448497,f
+PA10251,atazanavir,Chemical,/chemical/PA10251,f
+PA166129523,atezolizumab,Chemical,/chemical/PA166129523,t
+PA134688071,atomoxetine,Chemical,/chemical/PA134688071,t
+PA448500,atorvastatin,Chemical,/chemical/PA448500,f
+PA166179849,avatrombopag,Chemical,/chemical/PA166179849,t
+PA166169875,avelumab,Chemical,/chemical/PA166169875,t
+PA164924493,axitinib,Chemical,/chemical/PA164924493,f
+PA448515,azathioprine,Chemical,/chemical/PA448515,t
+PA166114904,belimumab,Chemical,/chemical/PA166114904,f
+PA165971474,belinostat,Chemical,/chemical/PA165971474,t
+PA166179867,binimetinib,Chemical,/chemical/PA166179867,t
+PA166184057,bisoprolol fumarate / perindopril arginine,Chemical,/chemical/PA166184057,f
+PA166129524,blinatumomab,Chemical,/chemical/PA166129524,t
+PA165948902,boceprevir,Chemical,/chemical/PA165948902,t
+PA166114906,bosutinib,Chemical,/chemical/PA166114906,t
+PA165948903,brentuximab vedotin,Chemical,/chemical/PA165948903,t
+PA166160053,brexpiprazole,Chemical,/chemical/PA166160053,t
+PA166163482,brigatinib,Chemical,/chemical/PA166163482,t
+PA166153491,brivaracetam,Chemical,/chemical/PA166153491,t
+PA448691,busulfan,Chemical,/chemical/PA448691,t
+PA165958401,cabazitaxel,Chemical,/chemical/PA165958401,f
+PA165906891,cabozantinib,Chemical,/chemical/PA165906891,t
+PA448771,capecitabine,Chemical,/chemical/PA448771,t
+PA448785,carbamazepine,Chemical,/chemical/PA448785,t
+PA166184059,carbasalate calcium,Chemical,/chemical/PA166184059,f
+PA165958402,carglumic acid,Chemical,/chemical/PA165958402,t
+PA166177476,cariprazine,Chemical,/chemical/PA166177476,t
+PA448809,carisoprodol,Chemical,/chemical/PA448809,t
+PA448817,carvedilol,Chemical,/chemical/PA448817,t
+PA448866,ceftriaxone,Chemical,/chemical/PA448866,t
+PA448871,celecoxib,Chemical,/chemical/PA448871,t
+PA166124616,ceritinib,Chemical,/chemical/PA166124616,t
+PA166169879,cerliponase alfa,Chemical,/chemical/PA166169879,t
+PA10040,cetuximab,Chemical,/chemical/PA10040,t
+PA164754754,cevimeline,Chemical,/chemical/PA164754754,t
+PA448946,chloroprocaine,Chemical,/chemical/PA448946,t
+PA448948,chloroquine,Chemical,/chemical/PA448948,t
+PA448966,chlorpropamide,Chemical,/chemical/PA448966,t
+PA166160055,cholic acid,Chemical,/chemical/PA166160055,f
+PA449009,ciprofloxacin,Chemical,/chemical/PA449009,f
+PA449014,cisplatin,Chemical,/chemical/PA449014,t
+PA449015,citalopram,Chemical,/chemical/PA449015,t
+PA10888,clobazam,Chemical,/chemical/PA10888,t
+PA449048,clomipramine,Chemical,/chemical/PA449048,t
+PA449053,clopidogrel,Chemical,/chemical/PA449053,t
+PA449061,clozapine,Chemical,/chemical/PA449061,t
+PA166160044,cobimetinib,Chemical,/chemical/PA166160044,t
+PA449088,codeine,Chemical,/chemical/PA449088,t
+PA166189801,Crizanlizumab-tmca,Chemical,/chemical/PA166189801,t
+PA165946122,crizotinib,Chemical,/chemical/PA165946122,t
+PA166114911,dabrafenib,Chemical,/chemical/PA166114911,t
+PA166128167,daclatasvir,Chemical,/chemical/PA166128167,t
+PA166182279,dacomitinib,Chemical,/chemical/PA166182279,t
+PA166151992,dapoxetine,Chemical,/chemical/PA166151992,f
+PA449211,dapsone,Chemical,/chemical/PA449211,t
+PA164774901,darifenacin,Chemical,/chemical/PA164774901,t
+PA163522472,darunavir,Chemical,/chemical/PA163522472,f
+PA166163411,dasabuvir,Chemical,/chemical/PA166163411,f
+PA166160002,dasabuvir / ombitasvir / paritaprevir / ritonavir,Chemical,/chemical/PA166160002,t
+PA162372878,dasatinib,Chemical,/chemical/PA162372878,t
+PA164750594,denileukin diftitox,Chemical,/chemical/PA164750594,t
+PA164749136,desflurane,Chemical,/chemical/PA164749136,t
+PA449233,desipramine,Chemical,/chemical/PA449233,t
+PA164776964,desloratadine,Chemical,/chemical/PA164776964,f
+PA165958374,desvenlafaxine,Chemical,/chemical/PA165958374,t
+PA166169881,deutetrabenazine,Chemical,/chemical/PA166169881,t
+PA166110257,dexlansoprazole,Chemical,/chemical/PA166110257,t
+PA449273,dextromethorphan,Chemical,/chemical/PA449273,f
+PA166175998,dextromethorphan / quinidine,Chemical,/chemical/PA166175998,t
+PA449283,diazepam,Chemical,/chemical/PA449283,t
+PA166160060,dinutuximab,Chemical,/chemical/PA166160060,t
+PA164783479,divalproex sodium,Chemical,/chemical/PA164783479,f
+PA449383,docetaxel,Chemical,/chemical/PA449383,t
+PA166114961,dolutegravir,Chemical,/chemical/PA166114961,t
+PA166184505,dolutegravir / abacavir / lamivudine,Chemical,/chemical/PA166184505,f
+PA449394,donepezil,Chemical,/chemical/PA449394,t
+PA449409,doxepin,Chemical,/chemical/PA449409,t
+PA449421,dronabinol,Chemical,/chemical/PA449421,t
+PA153619853,dronedarone,Chemical,/chemical/PA153619853,f
+PA165290928,drospirenone / ethinyl estradiol,Chemical,/chemical/PA165290928,t
+PA10066,duloxetine,Chemical,/chemical/PA10066,t
+PA166169883,durvalumab,Chemical,/chemical/PA166169883,t
+PA166182761,duvelisib,Chemical,/chemical/PA166182761,t
+PA449441,efavirenz,Chemical,/chemical/PA449441,t
+PA166176033,efavirenz / emtricitabine / tenofovir disoproxil,Chemical,/chemical/PA166176033,f
+PA166182348,elagolix,Chemical,/chemical/PA166182348,t
+PA166163438,elbasvir / grazoprevir,Chemical,/chemical/PA166163438,t
+PA134687947,eletriptan,Chemical,/chemical/PA134687947,f
+PA166190041,elexacaftor / tezacaftor / ivacaftor,Chemical,/chemical/PA166190041,t
+PA166123486,eliglustat,Chemical,/chemical/PA166123486,t
+PA166159062,elosulfase alfa,Chemical,/chemical/PA166159062,t
+PA165981594,eltrombopag,Chemical,/chemical/PA165981594,t
+PA166182763,emapalumab,Chemical,/chemical/PA166182763,t
+PA166177484,enasidenib,Chemical,/chemical/PA166177484,t
+PA166179872,encorafenib,Chemical,/chemical/PA166179872,t
+PA449461,enflurane,Chemical,/chemical/PA449461,f
+PA166190121,enfortumab vedotin,Chemical,/chemical/PA166190121,t
+PA166190161,entrectinib,Chemical,/chemical/PA166190161,t
+PA166182720,erdafitinib,Chemical,/chemical/PA166182720,t
+PA166182723,eribulin,Chemical,/chemical/PA166182723,t
+PA134687924,erlotinib,Chemical,/chemical/PA134687924,t
+PA166176008,erythromycin ethylsuccinate / sulfisoxazole acetyl,Chemical,/chemical/PA166176008,t
+PA10074,escitalopram,Chemical,/chemical/PA10074,t
+PA10075,esomeprazole,Chemical,/chemical/PA10075,t
+PA166190221,estradiol / progesterone,Chemical,/chemical/PA166190221,t
+PA166163432,eteplirsen,Chemical,/chemical/PA166163432,t
+PA165290929,ethinyl estradiol / norelgestromin,Chemical,/chemical/PA165290929,f
+PA164746311,everolimus,Chemical,/chemical/PA164746311,t
+PA166160027,evolocumab,Chemical,/chemical/PA166160027,f
+PA449563,exemestane,Chemical,/chemical/PA449563,t
+PA166184498,ezetimibe / rosuvastatin,Chemical,/chemical/PA166184498,f
+PA166184495,ezetimibe / simvastatin,Chemical,/chemical/PA166184495,f
+PA166123389,fampridine,Chemical,/chemical/PA166123389,f
+PA166190621,fam-trastuzumab deruxtecan-nxki,Chemical,/chemical/PA166190621,t
+PA449594,fenofibrate,Chemical,/chemical/PA449594,f
+PA165958376,fesoterodine,Chemical,/chemical/PA165958376,t
+PA166153431,flibanserin,Chemical,/chemical/PA166153431,t
+PA164781042,flucloxacillin,Chemical,/chemical/PA164781042,f
+PA449654,flucytosine,Chemical,/chemical/PA449654,f
+PA128406956,fluorouracil,Chemical,/chemical/PA128406956,t
+PA166183787,fluorouracil / salicylic acid,Chemical,/chemical/PA166183787,f
+PA449673,fluoxetine,Chemical,/chemical/PA449673,t
+PA166176027,fluoxetine / olanzapine,Chemical,/chemical/PA166176027,f
+PA449683,flurbiprofen,Chemical,/chemical/PA449683,t
+PA449685,flutamide,Chemical,/chemical/PA449685,t
+PA449690,fluvoxamine,Chemical,/chemical/PA449690,t
+PA134687907,formoterol,Chemical,/chemical/PA134687907,t
+PA10084,fosamprenavir,Chemical,/chemical/PA10084,f
+PA164746820,fosphenytoin,Chemical,/chemical/PA164746820,t
+PA164747170,fulvestrant,Chemical,/chemical/PA164747170,t
+PA449726,galantamine,Chemical,/chemical/PA449726,t
+PA131301952,gefitinib,Chemical,/chemical/PA131301952,t
+PA166182767,gilteritinib,Chemical,/chemical/PA166182767,t
+PA166190681,givosiran,Chemical,/chemical/PA166190681,t
+PA449782,glibenclamide,Chemical,/chemical/PA449782,f
+PA10892,gliclazide,Chemical,/chemical/PA10892,f
+PA449761,glimepiride,Chemical,/chemical/PA449761,t
+PA449762,glipizide,Chemical,/chemical/PA449762,t
+PA166190721,Golodirsen,Chemical,/chemical/PA166190721,t
+PA164747674,goserelin,Chemical,/chemical/PA164747674,t
+PA449841,haloperidol,Chemical,/chemical/PA449841,f
+PA166114929,homoharringtonine,Chemical,/chemical/PA166114929,f
+PA166176017,hydralazine / isosorbide dinitrate,Chemical,/chemical/PA166176017,t
+PA164777036,hydroxychloroquine,Chemical,/chemical/PA164777036,t
+PA164781375,ibritumomab,Chemical,/chemical/PA164781375,f
+PA166121346,ibrutinib,Chemical,/chemical/PA166121346,t
+PA161199368,iloperidone,Chemical,/chemical/PA161199368,t
+PA10804,imatinib,Chemical,/chemical/PA10804,t
+PA449969,imipramine,Chemical,/chemical/PA449969,t
+PA165958348,indacaterol,Chemical,/chemical/PA165958348,t
+PA449977,indinavir,Chemical,/chemical/PA449977,f
+PA166182756,inotersen,Chemical,/chemical/PA166182756,t
+PA166177510,inotuzumab ozogamicin,Chemical,/chemical/PA166177510,t
+PA166182718,ipilimumab,Chemical,/chemical/PA166182718,t
+PA450085,irinotecan,Chemical,/chemical/PA450085,t
+PA450106,isoflurane,Chemical,/chemical/PA450106,t
+PA450112,isoniazid,Chemical,/chemical/PA450112,f
+PA166176022,isoniazid / pyrazinamide / rifampin,Chemical,/chemical/PA166176022,t
+PA450125,isosorbide dinitrate,Chemical,/chemical/PA450125,t
+PA450126,isosorbide mononitrate,Chemical,/chemical/PA450126,t
+PA166123415,ivabradine,Chemical,/chemical/PA166123415,f
+PA165950341,ivacaftor,Chemical,/chemical/PA165950341,t
+PA166152935,ivacaftor / lumacaftor,Chemical,/chemical/PA166152935,t
+PA166179845,ivacaftor / tezacaftor,Chemical,/chemical/PA166179845,t
+PA166182707,ivosidenib,Chemical,/chemical/PA166182707,t
+PA165110439,ixabepilone,Chemical,/chemical/PA165110439,t
+PA166160048,lacosamide,Chemical,/chemical/PA166160048,t
+PA166184501,lamivudine / abacavir,Chemical,/chemical/PA166184501,f
+PA450180,lansoprazole,Chemical,/chemical/PA450180,t
+PA152241907,lapatinib,Chemical,/chemical/PA152241907,t
+PA166182733,larotrectinib sulfate,Chemical,/chemical/PA166182733,t
+PA166163427,ledipasvir / sofosbuvir,Chemical,/chemical/PA166163427,t
+PA162363968,lenalidomide,Chemical,/chemical/PA162363968,t
+PA166153472,lenvatinib,Chemical,/chemical/PA166153472,t
+PA166160006,lesinurad,Chemical,/chemical/PA166160006,t
+PA166184379,letermovir,Chemical,/chemical/PA166184379,f
+PA450196,letrozole,Chemical,/chemical/PA450196,t
+PA166182735,lidocaine and tetracaine,Chemical,/chemical/PA166182735,t
+PA166176018,lidocaine / prilocaine,Chemical,/chemical/PA166176018,t
+PA164744510,lofexidine,Chemical,/chemical/PA164744510,t
+PA166114922,lomitapide,Chemical,/chemical/PA166114922,f
+PA166182743,lorlatinib,Chemical,/chemical/PA166182743,t
+PA450268,losartan,Chemical,/chemical/PA450268,f
+PA166190001,luspatercept-aamt,Chemical,/chemical/PA166190001,t
+PA166182748,lusutrombopag,Chemical,/chemical/PA166182748,t
+PA166114925,mafenide,Chemical,/chemical/PA166114925,t
+PA164768835,maraviroc,Chemical,/chemical/PA164768835,f
+PA450338,meclizine,Chemical,/chemical/PA450338,t
+PA450348,mefloquine,Chemical,/chemical/PA450348,f
+PA450353,meloxicam,Chemical,/chemical/PA450353,t
+PA164748741,mepivacaine,Chemical,/chemical/PA164748741,t
+PA450379,mercaptopurine,Chemical,/chemical/PA450379,t
+PA166183788,metabutethamine,Chemical,/chemical/PA166183788,f
+PA450457,methylene blue,Chemical,/chemical/PA450457,t
+PA450475,metoclopramide,Chemical,/chemical/PA450475,t
+PA450480,metoprolol,Chemical,/chemical/PA450480,t
+PA166169917,midostaurin,Chemical,/chemical/PA166169917,t
+PA166182881,migalastat,Chemical,/chemical/PA166182881,t
+PA166114927,mipomersen,Chemical,/chemical/PA166114927,f
+PA166177513,mirabegron,Chemical,/chemical/PA166177513,t
+PA450529,mivacurium chloride,Chemical,/chemical/PA450529,t
+PA452615,moclobemide,Chemical,/chemical/PA452615,f
+PA450530,modafinil,Chemical,/chemical/PA450530,t
+PA166163260,moviprep,Chemical,/chemical/PA166163260,f
+PA450555,moxifloxacin,Chemical,/chemical/PA450555,f
+PA164748728,mycophenolic acid,Chemical,/chemical/PA164748728,t
+PA164746384,nalidixic acid,Chemical,/chemical/PA164746384,t
+PA151958426,nebivolol,Chemical,/chemical/PA151958426,t
+PA450603,nefazodone,Chemical,/chemical/PA450603,t
+PA450606,nelfinavir,Chemical,/chemical/PA450606,f
+PA165291472,neratinib,Chemical,/chemical/PA165291472,t
+PA166184081,nicorandil,Chemical,/chemical/PA166184081,f
+PA165958345,nilotinib,Chemical,/chemical/PA165958345,t
+PA166131610,niraparib,Chemical,/chemical/PA166131610,t
+PA450640,nitrofurantoin,Chemical,/chemical/PA450640,t
+PA450644,nitroglycerin,Chemical,/chemical/PA450644,f
+PA166129522,nivolumab,Chemical,/chemical/PA166129522,t
+PA450654,norfloxacin,Chemical,/chemical/PA450654,f
+PA450657,nortriptyline,Chemical,/chemical/PA450657,t
+PA166182882,nusinersen,Chemical,/chemical/PA166182882,t
+PA165291493,ofatumumab,Chemical,/chemical/PA165291493,f
+PA450684,ofloxacin,Chemical,/chemical/PA450684,f
+PA450688,olanzapine,Chemical,/chemical/PA450688,f
+PA164920420,olaparib,Chemical,/chemical/PA164920420,t
+PA166163434,olaratumab,Chemical,/chemical/PA166163434,t
+PA166163408,ombitasvir / paritaprevir / ritonavir,Chemical,/chemical/PA166163408,t
+PA450704,omeprazole,Chemical,/chemical/PA450704,t
+PA450705,ondansetron,Chemical,/chemical/PA450705,t
+PA164712951,Opium derivatives and expectorants,Chemical,/chemical/PA164712951,f
+PA166131626,osimertinib,Chemical,/chemical/PA166131626,t
+PA166182883,ospemifene,Chemical,/chemical/PA166182883,t
+PA450732,oxcarbazepine,Chemical,/chemical/PA450732,t
+PA450741,oxycodone,Chemical,/chemical/PA450741,f
+PA166182885,oxymetazoline and tetracaine,Chemical,/chemical/PA166182885,t
+PA166153469,palbociclib,Chemical,/chemical/PA166153469,t
+PA163518919,paliperidone,Chemical,/chemical/PA163518919,t
+PA10352,palonosetron,Chemical,/chemical/PA10352,t
+PA162373091,panitumumab,Chemical,/chemical/PA162373091,t
+PA450774,pantoprazole,Chemical,/chemical/PA450774,t
+PA166184497,"Paracetamol, combinations excl. Psycholeptics (Vicks MediNait Sirup)",Chemical,/chemical/PA166184497,f
+PA164713150,Parathyroid Hormones And Analogues,Chemical,/chemical/PA164713150,t
+PA450801,paroxetine,Chemical,/chemical/PA450801,t
+PA165291492,pazopanib,Chemical,/chemical/PA165291492,t
+PA164784024,peginterferon alfa-2b,Chemical,/chemical/PA164784024,t
+PA165963961,pegloticase,Chemical,/chemical/PA165963961,t
+PA166124615,pembrolizumab,Chemical,/chemical/PA166124615,t
+PA450877,perindopril,Chemical,/chemical/PA450877,f
+PA450882,perphenazine,Chemical,/chemical/PA450882,t
+PA165290933,pertuzumab,Chemical,/chemical/PA165290933,t
+PA450947,phenytoin,Chemical,/chemical/PA450947,t
+PA450965,pimozide,Chemical,/chemical/PA450965,t
+PA450970,pioglitazone,Chemical,/chemical/PA450970,f
+PA450985,piroxicam,Chemical,/chemical/PA450985,t
+PA142650384,pitavastatin,Chemical,/chemical/PA142650384,f
+PA166185163,pitolisant,Chemical,/chemical/PA166185163,t
+PA165980594,ponatinib,Chemical,/chemical/PA165980594,t
+PA151958574,posaconazole,Chemical,/chemical/PA151958574,f
+PA154410481,prasugrel,Chemical,/chemical/PA154410481,t
+PA451089,pravastatin,Chemical,/chemical/PA451089,f
+PA451101,prilocaine,Chemical,/chemical/PA451101,f
+PA451103,primaquine,Chemical,/chemical/PA451103,t
+PA451106,probenecid,Chemical,/chemical/PA451106,t
+PA451108,procainamide,Chemical,/chemical/PA451108,t
+PA451131,propafenone,Chemical,/chemical/PA451131,t
+PA451145,propranolol,Chemical,/chemical/PA451145,t
+PA451168,protriptyline,Chemical,/chemical/PA451168,t
+PA451209,quinidine,Chemical,/chemical/PA451209,t
+PA451213,quinine,Chemical,/chemical/PA451213,t
+PA451216,rabeprazole,Chemical,/chemical/PA451216,t
+PA451221,raloxifene,Chemical,/chemical/PA451221,t
+PA164888966,raltegravir,Chemical,/chemical/PA164888966,t
+PA166184558,ramucirumab,Chemical,/chemical/PA166184558,t
+PA164746007,ranolazine,Chemical,/chemical/PA164746007,f
+PA10176,rasburicase,Chemical,/chemical/PA10176,t
+PA166114943,regorafenib,Chemical,/chemical/PA166114943,t
+PA166153470,ribociclib,Chemical,/chemical/PA166153470,t
+PA451257,risperidone,Chemical,/chemical/PA451257,t
+PA451260,ritonavir,Chemical,/chemical/PA451260,f
+PA451261,rituximab,Chemical,/chemical/PA451261,t
+PA165958360,rivaroxaban,Chemical,/chemical/PA165958360,t
+PA451271,ropivacaine,Chemical,/chemical/PA451271,t
+PA134308647,rosuvastatin,Chemical,/chemical/PA134308647,t
+PA166163418,rucaparib,Chemical,/chemical/PA166163418,t
+PA166123386,ruxolitinib,Chemical,/chemical/PA166123386,f
+PA164784002,sertindole,Chemical,/chemical/PA164784002,f
+PA451341,sevoflurane,Chemical,/chemical/PA451341,t
+PA451346,sildenafil,Chemical,/chemical/PA451346,f
+PA166122590,simeprevir,Chemical,/chemical/PA166122590,t
+PA451363,simvastatin,Chemical,/chemical/PA451363,f
+PA166182736,siponimod,Chemical,/chemical/PA166182736,t
+PA451365,sirolimus,Chemical,/chemical/PA451365,f
+PA166176020,sodium benzoate / sodium phenylacetate,Chemical,/chemical/PA166176020,f
+PA166115361,sodium nitrite,Chemical,/chemical/PA166115361,t
+PA166114316,sodium phenylbutyrate,Chemical,/chemical/PA166114316,t
+PA166122593,sofosbuvir,Chemical,/chemical/PA166122593,t
+PA166163416,sofosbuvir / velpatasvir,Chemical,/chemical/PA166163416,t
+PA166177517,sofosbuvir / velpatasvir / voxilaprevir,Chemical,/chemical/PA166177517,t
+PA451521,succimer,Chemical,/chemical/PA451521,t
+PA451522,succinylcholine,Chemical,/chemical/PA451522,t
+PA451539,sulfadiazine,Chemical,/chemical/PA451539,t
+PA10715,sulfamethoxazole / trimethoprim,Chemical,/chemical/PA10715,t
+PA451547,sulfasalazine,Chemical,/chemical/PA451547,t
+PA162372840,sunitinib,Chemical,/chemical/PA162372840,f
+PA166184562,tafamidis,Chemical,/chemical/PA166184562,t
+PA166115580,tafenoquine,Chemical,/chemical/PA166115580,t
+PA166182740,talazoparib,Chemical,/chemical/PA166182740,t
+PA451581,tamoxifen,Chemical,/chemical/PA451581,t
+PA451583,tamsulosin,Chemical,/chemical/PA451583,t
+PA165958354,telaprevir,Chemical,/chemical/PA165958354,t
+PA10202,telithromycin,Chemical,/chemical/PA10202,f
+PA451614,terbinafine,Chemical,/chemical/PA451614,f
+PA140222719,tetrabenazine,Chemical,/chemical/PA140222719,t
+PA451663,thioguanine,Chemical,/chemical/PA451663,t
+PA451666,thioridazine,Chemical,/chemical/PA451666,t
+PA165374673,ticagrelor,Chemical,/chemical/PA165374673,t
+PA451690,timolol,Chemical,/chemical/PA451690,f
+PA164769056,tiotropium,Chemical,/chemical/PA164769056,f
+PA166184566,tipiracil / trifluridine,Chemical,/chemical/PA166184566,t
+PA163522473,tipranavir,Chemical,/chemical/PA163522473,f
+PA164774902,tolazamide,Chemical,/chemical/PA164774902,t
+PA451718,tolbutamide,Chemical,/chemical/PA451718,t
+PA166152940,tolperisone,Chemical,/chemical/PA166152940,f
+PA164746757,tolterodine,Chemical,/chemical/PA164746757,t
+PA451731,toremifene,Chemical,/chemical/PA451731,t
+PA164748364,tositumomab,Chemical,/chemical/PA164748364,f
+PA451735,tramadol,Chemical,/chemical/PA451735,t
+PA166115364,trametinib,Chemical,/chemical/PA166115364,t
+PA451743,trastuzumab,Chemical,/chemical/PA451743,t
+PA165958441,trastuzumab emtansine,Chemical,/chemical/PA165958441,t
+PA451746,tretinoin,Chemical,/chemical/PA451746,t
+PA451791,trimipramine,Chemical,/chemical/PA451791,t
+PA166177519,umeclidinium,Chemical,/chemical/PA166177519,t
+PA166184235,umeclidinium / vilanterol,Chemical,/chemical/PA166184235,f
+PA166189803,upadacitinib,Chemical,/chemical/PA166189803,t
+PA166048654,ustekinumab,Chemical,/chemical/PA166048654,t
+PA166170051,valbenazine,Chemical,/chemical/PA166170051,t
+PA451846,valproic acid,Chemical,/chemical/PA451846,t
+PA166118341,vandetanib,Chemical,/chemical/PA166118341,f
+PA10229,vardenafil,Chemical,/chemical/PA10229,f
+PA166115366,velaglucerase alfa,Chemical,/chemical/PA166115366,f
+PA165946873,vemurafenib,Chemical,/chemical/PA165946873,t
+PA166153473,venetoclax,Chemical,/chemical/PA166153473,t
+PA451866,venlafaxine,Chemical,/chemical/PA451866,t
+PA166184233,vernakalant,Chemical,/chemical/PA166184233,f
+PA451879,vincristine,Chemical,/chemical/PA451879,t
+PA164713397,Vitamin B-complex with vitamin C,Chemical,/chemical/PA164713397,f
+PA451898,vitamin c,Chemical,/chemical/PA451898,f
+PA10233,voriconazole,Chemical,/chemical/PA10233,t
+PA166122595,vortioxetine,Chemical,/chemical/PA166122595,t
+PA166189802,voxelotor,Chemical,/chemical/PA166189802,t
+PA451906,warfarin,Chemical,/chemical/PA451906,t
+PA166184503,zidovudine / lamivudine / abacavir,Chemical,/chemical/PA166184503,f
+PA451978,zonisamide,Chemical,/chemical/PA451978,f
+PA452629,zuclopenthixol,Chemical,/chemical/PA452629,f
