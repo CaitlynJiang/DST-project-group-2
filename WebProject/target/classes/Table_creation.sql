@@ -1,4 +1,4 @@
--- vep data
+-- vep data (uploaded by user)
 CREATE TABLE vep(
 	sample_id INT,
 	Uploaded_variation VARCHAR,
@@ -36,16 +36,7 @@ CREATE TABLE clinic_meta(
 	chromosome VARCHAR
 )
 
--- clinic annotation.tsv
-CREATE TABLE clinic_ann(
-	genotype_phenotype_id INT PRIMARY KEY,
-	genotype VARCHAR,
-	annotation TEXT
-);
-
--- \\copy public.clinic_ann (genotype_phenotype_id, genotype, annotation) FROM '/Users/jefft/Desktop/DST-project-group-2/PGKB data/annotation_data/annotations/clinical_ann.tsv' DELIMITER E'\\t' CSV HEADER ENCODING 'UTF8' QUOTE '\"' ESCAPE '''';''
-
--- Variant.tsv
+-- variant.tsv
 CREATE TABLE variant(
 	variant_id VARCHAR,
 	variant_name VARCHAR,
@@ -60,9 +51,7 @@ CREATE TABLE variant(
 	synonyms TEXT
 );
 
--- \\copy public.variant (variant_id, variant_name, gene_ids, gene_symbols, location, variant_annotation_count, clinical_annotation_count, high_level_clinical_annotation, guidance_annotation_count, label_annotation_count, synonyms) FROM '/Users/jefft/Desktop/DST-project-group-2/PGKB data/primary_data/variants/variants.tsv' DELIMITER E'\\t' CSV HEADER ENCODING 'UTF8' QUOTE '\"' ESCAPE '''';"
-
--- gene mapping (gene_treated.tsv)
+-- gene_treated.tsv
 CREATE TABLE gene(
 	pgkb_id VARCHAR,
 	ncbi_id VARCHAR,
@@ -84,7 +73,7 @@ CREATE TABLE gene(
 	ensembl_id VARCHAR
 );
 
--- Drug
+-- drug
 create table drug
 (
     id varchar(100) not null,
@@ -99,7 +88,7 @@ create table drug
 alter table drug
     add primary key (id);
 
--- Drug label
+-- drug label
 create table drug_label
 (
     id varchar(100) not null,
@@ -120,7 +109,7 @@ create table drug_label
 alter table drug_label
     add primary key (id);
 
--- Dosing guideline
+-- dosing guideline
 create table dosing_guideline
 (
     id varchar(250) not null,
@@ -139,18 +128,20 @@ create table dosing_guideline
 alter table dosing_guideline
     add primary key (id);
 
+-- drugNames from drug & drug label
 select drug_label.id,drug_label.alternate_drug_available,
 drug_label.source,drug_label.summary_markdown,
 drug_label.drug_id,drug.name into drugNames 
 from drug right outer join drug_label on drug.id=drug_label.drug_id;
 
+-- dosing_guideline_name from drug & dosing_guideline
 select dosing_guideline.name,drug.name as drug ,dosing_guideline.source,
 dosing_guideline.recommendation,dosing_guideline.summary_markdown 
 into dosing_guideline_name 
 from drug right outer join dosing_guideline 
 on drug.id=dosing_guideline.drug_id;
 
--- var-drug-ann
+-- var-drug-ann.tsv
 create table var_drug_ann(
 annotation_id varchar(250),
 variant varchar(250),
@@ -165,7 +156,7 @@ studyparam varchar(250),
 allels varchar(250),
 choromosome varchar(250))
 
--- create var_drug_ann table (use my variant table)
+-- location_annvar: created from variant.tsv & variant.tsv
 SELECT var_drug_ann.variant, var_drug_ann.gene,
 var_drug_ann.chemical,var_drug_ann.significance,
 var_drug_ann.notes,var_drug_ann.sentence,

@@ -2,6 +2,7 @@ package dao;
 
 import DBmtd.DBmethods;
 import bean.GeneBean;
+import org.springframework.stereotype.Repository;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -9,6 +10,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+@Repository
 public class GeneDAO {
 
     public List<GeneBean> findAll(){

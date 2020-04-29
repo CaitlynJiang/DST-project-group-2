@@ -2,6 +2,7 @@ package dao;
 
 import DBmtd.DBmethods;
 import bean.DrugLabelBean;
+import org.springframework.stereotype.Repository;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -11,11 +12,21 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+@Repository
 public class DrugLabelDAO {
+<<<<<<< HEAD
+<<<<<<< HEAD
 	
 	
 	public static List<DrugLabelBean> search(String drugName,String phenotype,List<DrugLabelBean> drugLabels) {
 		Iterator<DrugLabelBean> iterator=drugLabels.iterator();
+=======
+=======
+>>>>>>> master
+
+	public List<DrugLabelBean> searchByDrug(String drugName, List<DrugLabelBean> drugLabelBeans) {
+		Iterator<DrugLabelBean> iterator= drugLabelBeans.iterator();
+>>>>>>> master
 		while(iterator.hasNext()) {
 			DrugLabelBean drugLabel=iterator.next();
 			String summary=drugLabel.getSummary_markdown();

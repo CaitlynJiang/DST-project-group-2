@@ -4,8 +4,9 @@
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
 
-<!--指定扫描的controller    -->
-    <context:component-scan base-package="controller"/>
+<!-- scan controller    -->
+    <context:component-scan base-package="controller">
+    </context:component-scan>
 
 <!--translate view name to view implementation file name-->
     <bean class = "org.springframework.web.servlet.view.InternalResourceViewResolver">
